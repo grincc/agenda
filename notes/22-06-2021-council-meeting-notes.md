@@ -1,5 +1,5 @@
 
-# Council Meeting Notes June 06, 2021 
+# Council Meeting Notes June 22, 2021 
 
 First Community Council (CC) meeting held @ 3PM UTC in grincoin#general channel on Keybase. Meeting lasted ~90 min.
 
