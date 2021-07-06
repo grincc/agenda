@@ -20,9 +20,12 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 * _cekickafa_
 * _hendi_
 
+<br/><br/>
 ## Agenda Points & Actions
+<br/>
 
 ### 1) Status of the multi-sig address
+<br/>
 
 * _mcmmike_ : Currently we are in the process of testing the multi-sig address and each and everyone of the community council is getting familiar with the process. 
 We scheduled a meeting with all members of the community council this Friday for setting up the multi-sig address and doing final desaster recovery test over the weekend.
@@ -59,7 +62,9 @@ We should do this check prior to signing date and communicate this publicly if w
 
 * _hendi_ : Nothing new for me
 
-### 2- New Github Organization links, etc
+<br/><br/>
+### 2) New Github Organization links, etc
+<br/>
 
 * _mcmmike_: We setup a new github organisation https://github.com/GRIN-Community-Fund where all the CC members are owners of the repository. 
 We will build and structure the new organisation over the next few weeks and make everything CC related public there.
@@ -103,8 +108,9 @@ Please send some 👍 from at least 3-4 CC members for renaming the repository t
 
 * _dburkett_: Thank you :)
 * _mcmmike_ :_anynomous_ can you proceed with (3) spending rules please while I rename it
-
-### Topic 3 Spending Rules
+<br/> <br/>
+### 3) Spending Rules
+<br/>
 
 * _jankie1800_: would a RFC be applicable here?
 _anynomous_ : It would be, we can take inspiration from:
@@ -166,8 +172,9 @@ good, any last thoughts on spending rules  ?  If not we move on
 
 * _dtavarez_ : I will write a draft for the spending rules then we can continue from there
 
-### Topic 4 Funding Requests
-
+<br/><br/>
+## 4) Funding Requests
+<br/>
 
 * _mcmmike_ : we will move now to multiple funding requests, are we ok with discussing each one or should we add them to a list and talk about it once we agreed on spending rules?
 
@@ -215,7 +222,10 @@ it looks wrong to me and he is member of council
 * _anynomous_ : @_cekickafa_ Everyone is free to guess gamble on the bottom, I guessed the current bottom.
 * _cekickafa_ : but he is admin. does it look right?
 
-### Topic 5 grin fund for mining
+<br/><br/>
+## 5) Grin fund for mining
+<br/>
+
 * _mcmmike_ : last point of the agenda:
 grin fund for mining @_hendi_ @_anynomous_ please go ahead
 on a general note for nhash:
