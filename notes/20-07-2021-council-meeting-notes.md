@@ -304,5 +304,6 @@ There is something about those counsels,when you are in it . You become GHOST
 
 * __anynomous__ : So far non. Pauky is not been at some meetings, I can ask if there is a specific reason. With Mac, he lives in new zeeland, therefore we have the next meeting earlier, so he can join.
 
+<br/>
 
-meeting adjourned.
+**Meeting adjourned.**
