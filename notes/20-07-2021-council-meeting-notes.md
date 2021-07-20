@@ -1,4 +1,4 @@
-# Council Meeting Notes July 06, 2021
+# Council Meeting Notes July 20, 2021
 
 Third (CC) meeting held @ 3PM UTC in grincoin#general channel on Keybase. Meeting lasted 60 min.
 
