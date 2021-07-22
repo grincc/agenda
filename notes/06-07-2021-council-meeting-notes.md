@@ -1,6 +1,6 @@
 # Council Meeting Notes July 06, 2021
 
-First Community Council (CC) meeting held @ 3PM UTC in grincoin#general channel on Keybase. Meeting lasted   min.
+Second Community Council (CC) meeting held @ 3PM UTC in grincoin#general channel on Keybase. Meeting lasted 65  min.
 
 Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact.
 
@@ -14,7 +14,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 * __cekickafa__
 * __defistaker__
 * __ux041__
-* ___hendi___
+* __hendi__
 * __dburkett__
 * __phyro__
 * __satoshocrat__
