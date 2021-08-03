@@ -18,7 +18,6 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 * __paouky__
 * __tromp__ 
 
- 
 <br/><br/>
 # Agenda Points & Actions
 <br/>
@@ -211,8 +210,8 @@ As a result of these discussion we proposed two options and we let community mem
     With around 10 days of voting and the following count
 
     Vote results:
-    12 G1 Mini’s (1 Vote)
-    12 G1 Mini’s + 1 G1 miner (9 votes)
+    - 12 G1 Mini’s (1 Vote)
+    - 12 G1 Mini’s + 1 G1 miner (9 votes)
 
     The community council will proceed with option 1), the ordering of 12 G1 Mini’s and 1 G1 miner, we will contact NHash to reserve the order.
 
