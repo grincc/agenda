@@ -1,4 +1,4 @@
-# Council Meeting Notes August 03, 2021
+# Council Meeting Notes August 10, 2021
 
 Community council meeting for single agenda issue of comnunity mining equipment purchase held @ 10AM UTC in grincoin#general channel on Keybase. Meeting lasted 60 min.
 
@@ -125,7 +125,7 @@ I would wholeheartedly like to vote in favour of buying the mining equipment for
     As pointed out on the forums: "Most of the CC are based in Europe where electricity can be upwards of 0.35 \$/kWh, where in the US 0.12 can be fairly common.
 
     - 2800w @ 0.35 \$/kWh is going to cost \$8590 per year
-    - 2800w @ 0.12 \$/kWh is going to cost \$2945 per year"
+    - 2800w @ 0.12 \$/kWh is going to cost \$2945 per year
 
 * __dtavarez__ : now I think, the identities should remain private, we don't know the future repercussions. 
 because all the madness around crypto lately 
