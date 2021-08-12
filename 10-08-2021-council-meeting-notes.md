@@ -10,7 +10,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 * __anynomous__
 * __cekickafa__
-* __stakervali__
+* __defistaker__
 * __future3000__
 * __dtavarez__
 * __mo5itoo__
@@ -59,7 +59,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
     For the time being we can discuss Agenda point 
     1) Discussion of community feedback and formal plan for community mining.
 
-* __stakervali__ : What is the regular price for G1 mini?
+* __defistaker__ : What is the regular price for G1 mini?
 
 * __anynomous__ : Normal price of the previous batch (which is sold out), was \$899, but they go online for prices up to \$2000
 
@@ -103,7 +103,7 @@ I would wholeheartedly like to vote in favour of buying the mining equipment for
 
 * __future3000__ : Could be based on a 30day moving average of Grin/usd 
 
-    (__cekickafa__,  __stakervali__,  __dtavarez__ thumb up)
+    (__cekickafa__,  __defistaker__,  __dtavarez__ thumb up)
 
 * __dtavarez__ : makes sense to me
 
