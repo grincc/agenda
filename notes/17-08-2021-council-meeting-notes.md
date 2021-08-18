@@ -116,9 +116,9 @@ Once we have a better understanding on what the community wants we can vote on i
 
 * __anynomous__ : It is also important to discuss this on the forum, we need also input from developers themselves, I wonder what they think is acceptable/the sweet spot. 
 
-@* __mcmmike__ Also on the forum I will provide the different options to vote on, then the discussion below.
+    @__mcmmike__ Also on the forum I will provide the different options to vote on, then the discussion below.
 
-Also to clarify, even if we start with e.g. 10%, this is not fixed, it is just a start, this discussion will be continued.
+    Also to clarify, even if we start with e.g. 10%, this is not fixed, it is just a start, this discussion will be continued.
 For now lets move to the forum.
 
 * __mcmmike__ : ok anything else we can disuss on the forum about this
@@ -137,16 +137,16 @@ https://forum.grin.mw/t/funding-request-should-be-at-least-paid-xx-in-grin-we-ne
 
 * __anynomous__ : We contacted Nhash to get an good offer for buying the mining equipment, we got the following deal:
 
-    "Glad to know we can cooperate with the Grin community.
-    As you required 12 units G1 mini and 1 unit G1, here we quote below:
-    G1 mini 1.2Gps ±10%： $799/unit
-    G1 36Gps±10%：$23,999/unit
-    Shipping cost to Germany by UPS, 5~8 working days, $547.
-    Total $34,134
+        "Glad to know we can cooperate with the Grin community.
+        As you required 12 units G1 mini and 1 unit G1, here we quote below:
+        G1 mini 1.2Gps ±10%： $799/unit
+        G1 36Gps±10%：$23,999/unit
+        Shipping cost to Germany by UPS, 5~8 working days, $547.
+        Total $34,134
 
-    This is the best price we can offer for you and Grin community members.
-    Please arrange the miners payment and shipping cost to separate address:
-    Paying $33587 to ...
+        This is the best price we can offer for you and Grin community members.
+        Please arrange the miners payment and shipping cost to separate address:
+        Paying $33587 to ...
 
     So in summary, we can buy 1 G1 miner and 12 G1 Mini miners for $34,134 excluding shipping costs. Lets vote in whether we think this deal should get a go ahaed
 
