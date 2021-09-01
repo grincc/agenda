@@ -11,8 +11,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 * __kurt2__
 * __scillio__
 * __future3000__
-* __vegycslol__
-* __dtavarez__
+* __vegycslol__ 
 * __johndavies24__
 * __cekickafa__
 * __defistaker__
