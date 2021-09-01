@@ -30,7 +30,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 - Request for Funding @scilio (CoinSwap Implementation) **Approved**
 
-<hr style="border-bottom: solid 1px lightgray"> </hr>
+<hr style="border-bottom: solid 0.1rem lightgray"> </hr>
 <br/>
 
 * __mcmmike__ : Before we start I would take the time to thank @* __defistaker__ and @jankie1800 or taking meeting notes and for the last meeting notes which can be found here https://github.com/grincc/agenda/tree/main/notes 👍
