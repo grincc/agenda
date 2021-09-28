@@ -19,7 +19,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 # Short Summary
 
 - __@anynomous__ contacted OC council for payment transfer. John and Joltz checked security proof. OC will proceed and transfer funds in the next week.
-- Tasklist of *@jankie* - *@stakervali* and mining equipment purchase will be discussed on forum posts.
+- Tasklist of __@jankie__ - __@stakervali__ and mining equipment purchase will be discussed on forum posts.
 - __@mcmmike__ has now control of MW Grin/ Berlin Meetup group.
 
 <br/>
