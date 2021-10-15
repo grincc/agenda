@@ -1,3 +1,10 @@
+ # Council Meeting Notes October 12, 2021
+
+Community Council (CC) meeting held @ 15 UTC in grincoin#general channel on Keybase. Meeting lasted 60 min.
+
+Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact.
+
+<br/>
 
 ### _Community attendence:_
 
