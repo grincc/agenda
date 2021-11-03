@@ -7,8 +7,8 @@
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
-Oct 26 | [Agenda](https://github.com/grincc/agenda/issues/20)| | |
-Oct 12 | [Agenda](https://github.com/grincc/agenda/issues/18)| | |
+Oct 26 | [Agenda](https://github.com/grincc/agenda/issues/20)| [Notes](notes/26-10-2021-community-meeting-notes.md) | Community Council 40 Week Status, Exchange Support Technical Discussion |  
+Oct 12 | [Agenda](https://github.com/grincc/agenda/issues/18)| [Notes](notes/12-10-2021-council-meeting-notes.md) | Request for funding @dtavarez, Groundskeeper Initiative, Miner Availability |
 Sep 28 | [Agenda](https://github.com/grincc/agenda/issues/16)| [Notes](notes/28-09-2021-community-meeting-notes.md) | Atomic-Swaps PR Review, Multi-Named-Wallets Implementation, Community-Miners Next Steps  |
 Sep 14 | [Agenda](https://github.com/grincc/agenda/issues/14)| [Notes](notes/14-09-2021-council-meeting-notes.md) | Review GroundsKeeper(s) Initiative, MW GRiN Berlin, G1 Miners Sold Out  |
 Aug 31 | [Agenda](https://github.com/grincc/agenda/issues/12)| [Notes](notes/31-08-2021-council-meeting-notes.md) | Vote-Held:Funding % Paid in GRiN, @Scilio CoinSwap Funding Request, Exchange Support |
