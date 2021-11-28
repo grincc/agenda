@@ -7,6 +7,7 @@
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
+Nov 23 | [Agenda](https://github.com/grincc/agenda/issues/25)| [Notes](notes/09-23-2021-council-meeting-notes.md) | Scilio Coinswap Milestone #1 Review, Grin Featured Exchange Updates  
 Oct 26 | [Agenda](https://github.com/grincc/agenda/issues/20)| [Notes](notes/26-10-2021-community-meeting-notes.md) | Community Council 40 Week Status, Exchange Support Technical Discussion |  
 Oct 12 | [Agenda](https://github.com/grincc/agenda/issues/18)| [Notes](notes/12-10-2021-council-meeting-notes.md) | Request for funding @dtavarez, Groundskeeper Initiative, Miner Availability |
 Sep 28 | [Agenda](https://github.com/grincc/agenda/issues/16)| [Notes](notes/28-09-2021-community-meeting-notes.md) | Atomic-Swaps PR Review, Multi-Named-Wallets Implementation, Community-Miners Next Steps  |
