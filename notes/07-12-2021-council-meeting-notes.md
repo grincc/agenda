@@ -1,6 +1,6 @@
  # Council Meeting Notes December 07, 2021
 
- Community Council (CC) meeting held @ 15 UTC in grincoin#general channel on Keybase. Meeting lasted 80 min.
+ Community Council (CC) meeting held @ 15 UTC in grincoin#general channel on Keybase. Meeting lasted 75 min.
 
 Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact.
 
@@ -109,7 +109,7 @@ https://forum.grin.mw/t/bounty-suggestion-inflation-bugs/8628/15
 
 * __phyro__ : I can't speak for other members in the OC, but I do believe we find having a bounty on this important. I'd personally be ok with splitting it, but would need to ask others about their opinion
 
-do we agree on the types of inflation bugs etc.?
+    do we agree on the types of inflation bugs etc.?
 
 * __yeastplume__ : I'm okay with it as well, in principle
 
@@ -117,7 +117,7 @@ do we agree on the types of inflation bugs etc.?
 
 * __anynomous__ : That is good enough for now, the CC also does not have quorum right now in this meeting, so we will also have to get back to it. But we can discuss the intend here if this is something the community agrees on.
 
-* __jankie1800__ : * __phyro__ can you act as intermediary between councils for the time being-- just confirm you spoke and all agree
+* __jankie1800__ :  __phyro__ can you act as intermediary between councils for the time being-- just confirm you spoke and all agree
 
 * __tromp__ : i'm even fine with OC covering the entire bounty (but that's maybe just me)
 
@@ -162,15 +162,15 @@ https://forum.grin.mw/t/request-for-funding-groundskeeper-jankie-dec-feb-2021-22
 
 * __jankie1800__ : indeed I have requested to remain onboard with working with the project
 
-not much to add outside of the forum post other that I am committed to developing repeatable tasks for the project.
+    not much to add outside of the forum post other that I am committed to developing repeatable tasks for the project.
 
 * __anynomous__ : What do other think, in favour of extending the funding with another 3 months, or against, thumbs up or down please. Or if you have questions, feel free to ask them now.
 
-Have you achieved all targets you had for the last 3 months @* __jankie1800__ ?
+    Have you achieved all targets you had for the last 3 months @* __jankie1800__ ?
 
 * __jankie1800__ : I feel confident in the work committed is of value to the project and will continue to refine to meet better efficiency
 
-past 3 months have been onboarding and developing on the tasks. as these become more clear there will be more opportunity to capitalize on the inititaives
+    past 3 months have been onboarding and developing on the tasks. as these become more clear there will be more opportunity to capitalize on the inititaives
 
 * __anynomous__ : Good. I think it is also important that if as community there are tasks we see fit for our groundskeepers, we will bring them to their agenda, using the forum post for their funding requests and progress updates.
 
@@ -180,31 +180,31 @@ past 3 months have been onboarding and developing on the tasks. as these become 
 
 * __anynomous__ : Good point, it is always good to have measurable targets, this counts for developers as well as others. Also it makes it easier for yourself to have achievable milestones.
 
-janki1800 : agreed, I am working to create more clearly identifiable work items. which is acctually the vaguesness i.e 'identigy campaigns and opportunites'
+* __jankie1800__ : agreed, I am working to create more clearly identifiable work items. which is acctually the vaguesness i.e 'identigy campaigns and opportunites'
 
 * __phyro__ : it's also easier to evaluate the work imo
 
 * __jankie1800__ : i agree completly. when working in this field it is becoming clear that identifiable action is transparency 
 
-I do seek to expand on these clearly in the ongoing work progress threads:
+    I do seek to expand on these clearly in the ongoing work progress threads:
 
-https://forum.grin.mw/t/jankie-progress-update-thread/9316
+    https://forum.grin.mw/t/jankie-progress-update-thread/9316
 
 * __cekickafa__ : well it is hard to make milestones for middleman i think
 
 * __anynomous__ : Yes, another way to do it is since quite a few points are upon 'need be' basis, that you have some backup tasks or long term projects you can switch to if there is a gap. Anyhow, this is something to work on and define over time.
 Is anyone against funding, if not I think we can conditionally approve this request?
 
-Since the CC does not have quorum we will still have to vote on it and we will post the results on the forum, but I do not expect any objections. 
+    Since the CC does not have quorum we will still have to vote on it and we will post the results on the forum, but I do not expect any objections. 
 
-Lets move on to the next topic
+    Lets move on to the next topic
 
 ## 4) Update on payment for @scilio's coinswap implementation - milestone 1
 https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149/55
 
 * __anynomous__ : We have received the address information from scilio and are now organizing the transfer. I expect it to be done in the next 1-2 weeks, we will post an update on the forum as soon as the transfer is complete. It might take a bit of time since we want all 6 signatures on board to use as security proof.
 
-If there are no objections, at the same time we will transfer the funding for the coming 3 months @* __jankie1800__ 
+    If there are no objections, at the same time we will transfer the funding for the coming 3 months  __@jankie1800__ 
 
 * __jankie1800__ : perhaps you may need to discuss further with other CC members- I would prefer to have consensus
 
@@ -214,17 +214,17 @@ If there are no objections, at the same time we will transfer the funding for th
 
 * __anynomous__ : If you mean the payment to @scilio, the CC will pay the first 10k pound bounty for the first milestone. We are however very open on how to fund further milestones of the CoinSwap by either OC or CC. We do not mind sharing costs, e.g. 50% by OC oand 50% by the CC.
 
-This is something we can further discuss in future meetings.
+    This is something we can further discuss in future meetings.
 
-## 5) Development update by @* __yeastplume__ 
+## 5) Development update by  @yeastplume
 
 * __anynomous__ : Let us know what is going on in the belly of the beast.
 
 * __yeastplume__ : Sure, well there's been some good progress in the last few weeks. Personally I've been spending some time getting acquainted with parts of the code I've never really looked into in detail, but also starting to get some chunks of work moving again.
 
-I originally started by picking up the PIBD work, and there's been some good progress there with a few PRs picking up on previous work, and now its at the stage where we can almost simulate the reconstruction of the hashset via PIBD segments, so we can essentially copy a hashset locally via PIBD now.
+    I originally started by picking up the PIBD work, and there's been some good progress there with a few PRs picking up on previous work, and now its at the stage where we can almost simulate the reconstruction of the hashset via PIBD segments, so we can essentially copy a hashset locally via PIBD now.
 
-* __jankie1800__ : I noticed you and * __tromp__ really hitting both libraries hard.. Be sure to take some rest 
+* __jankie1800__ : I noticed you and __tromp__ really hitting both libraries hard.. Be sure to take some rest 
 
 * __anynomous__ : That sounds like some nice progress. The next step is to test with multiple nodes?
 
@@ -232,19 +232,19 @@ I originally started by picking up the PIBD work, and there's been some good pro
 
 >  * __anynomous__ : That sounds like some nice progress. The next step is to test with multiple nodes?
 
-Yes, that's coming but I want to get better testing in place first so we can build the sync portion with confidence in the underlying code
+>> * __yeastplume__ : Yes, that's coming but I want to get better testing in place first so we can build the sync portion with confidence in the underlying code
 
 * __anynomous__ : Better performance would be great, sounds like optimising and testing first takes priority.
 
-Anyway, this is not something that is on time pressure but something that could really improve the user experience on the long run.
+    Anyway, this is not something that is on time pressure but something that could really improve the user experience on the long run.
 
-* __yeastplume__ : * __tromp__ has done some serious work refactoring some core PMMR code to be zero indexed where possible (it was 1 indexed before, which was confusing), and has also make some optimisations to pow validation across all 4 birds
+* __yeastplume__ :  __tromp__ has done some serious work refactoring some core PMMR code to be zero indexed where possible (it was 1 indexed before, which was confusing), and has also make some optimisations to pow validation across all 4 birds
 
 * __anynomous__ : Wow nice, sounds like github is buzzing
 
 * __yeastplume__ : Definitely, in my head at the moment the focus over the mid-term needs to be usability and user experience, and sync times are a huge part of that so it's a great place to get stick back into Grin development. It also touches a lot of the code that wasn't developed by me, so it's helping me get up to speed.
 
-And that's it for now, hopefully we can get development snowballing again. I hope to sit down with the core team and get a larger plan in place starting early next year, but that will come in time
+    And that's it for now, hopefully we can get development snowballing again. I hope to sit down with the core team and get a larger plan in place starting early next year, but that will come in time
 
 * __anynomous__ : No rush, but I am really exited about these developments since they will really affect usability!
 
@@ -269,9 +269,9 @@ or faster
 
 * __yeastplume__ : at the moment it's doesn't cover passing stored blocks around
 
-Archiving just refers to keeping original block data. They kind of get split up and merged into a general transaction set and just the header is kept around permanently.
+    Archiving just refers to keeping original block data. They kind of get split up and merged into a general transaction set and just the header is kept around permanently.
 
-most nodes will delete the original block data once blocks are old enough
+    most nodes will delete the original block data once blocks are old enough
 
 * __anynomous__ : Is that an automatic process, the deleting?
 
@@ -279,9 +279,10 @@ most nodes will delete the original block data once blocks are old enough
 
 * __scillo__ : 
 
-> If you mean the payment to @scilio, the CC will pay the first 10k pound bounty for the first milestone. We are however very open on how to fund further milestones of the CoinSwap by either OC or CC. We do not mind sharing costs, e.g. 50% by OC oand 50% by the CC.
+> * __anynomous__ : If you mean the payment to @scilio, the CC will pay the first 10k pound bounty for the first milestone. We are however very open on how to fund further milestones of the CoinSwap by either OC or CC. We do not mind sharing costs, e.g. 50% by OC oand 50% by the CC.
 
-Sorry I'm late. Is CC only paying half of the bounty? This was discussed last meeting and the conclusion I thought was that CC was paying all.
+
+>> * __scillo__ : Sorry I'm late. Is CC only paying half of the bounty? This was discussed last meeting and the conclusion I thought was that CC was paying all.
 
 * __anynomous__ : Well, the CC is paying 100%, or if later on the OC offers to for example fund milestone 3, they can do so. In either way, funding is secured after finishing each milestone.
 
@@ -291,7 +292,7 @@ Sorry I'm late. Is CC only paying half of the bounty? This was discussed last me
 
 * __scillo__ : https://github.com/grincc/agenda/blob/main/notes/09-23-2021-council-meeting-notes.md#7-review-of-scilios-coinswap-milestone-1--discuss-approval-for-milestone-2-start
 
-ok, 100% of milestone 1 would be 10k pounds :)
+    ok, 100% of milestone 1 would be 10k pounds :)
 
 * __anynomous__ : O, yes, sorry about that. I will correct it.
 Unless you want to give us a discount :stuck_out_tongue_winking_eye:
@@ -306,7 +307,7 @@ Unless you want to give us a discount :stuck_out_tongue_winking_eye:
 
 * __anynomous__ : Sure, no need. We know you put in the work :+1:
 
-In that case, I would like to close the meeting for today. Thank you all for being here, and nice to see so many of the OC around today.
+    In that case, I would like to close the meeting for today. Thank you all for being here, and nice to see so many of the OC around today.
 Feel free stay around and continue the discussions:grin:.
 
 __Meeting adjourned__
@@ -317,7 +318,7 @@ __Meeting adjourned__
 ## *Action Points*
 </br>
 
-* Details for inflation bugs bounty will be discussed internally by OC
+* Details for inflation bugs bounty will be discussed internally by OC.
 
 * Groundkeeper's task list will be clarified for better performance measurability.
 

@@ -7,6 +7,7 @@
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
+Dec 07 | [Agenda](https://github.com/grincc/agenda/issues/27)| [Notes](notes/07-12-2021-council-meeting-notes.md) | Inflation bugs bounty, funding updates for Groundskeeper @jankie and @scilio, Ddvelopment update by @yeastplume
 Nov 23 | [Agenda](https://github.com/grincc/agenda/issues/25)| [Notes](notes/09-23-2021-council-meeting-notes.md) | Scilio Coinswap Milestone #1 Review, Grin Featured Exchange Updates  
 Nov 09 | [Agenda](https://github.com/grincc/agenda/issues/22)| [Notes](notes/09-11-2021-council-meeting-notes.md) | Grin Bisq integration, grin tools list, Grin development updates
 Oct 26 | [Agenda](https://github.com/grincc/agenda/issues/20)| [Notes](notes/26-10-2021-community-meeting-notes.md) | Community Council 40 Week Status, Exchange Support Technical Discussion |  
