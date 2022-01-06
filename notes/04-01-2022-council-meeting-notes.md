@@ -22,7 +22,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 * Last meeting notes [here](https://github.com/grincc/agenda/blob/main/notes/21-12-2021-council-meeting-notes.md)
 * Current meeting [agenda](https://github.com/grincc/agenda/issues/31)
-* 
+
 </br>
 
 ## 1) Organizing community for extending grin ecosystem
