@@ -7,6 +7,7 @@
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
+Jan 04 | [Agenda](https://github.com/grincc/agenda/issues/31)| [Notes](notes/04-01-2022-council-meeting-notes.md) | Organizing Community Ecosystem, Groundskeeper Update, Discuss Potential Grin-Wallet UI, State of Scriptless Scripts      
 Dec 21 | [Agenda](https://github.com/grincc/agenda/issues/29)| [Notes](notes/21-12-2021-council-meeting-notes.md) | Review GrinCC website development, Funding discussion for Groundskeeper @Stakervali, Stackexchange QA prize contribution discussion   
 Dec 07 | [Agenda](https://github.com/grincc/agenda/issues/27)| [Notes](notes/07-12-2021-council-meeting-notes.md) | Inflation bugs bounty, funding updates for Groundskeeper @jankie and @scilio, Ddvelopment update by @yeastplume
 Nov 23 | [Agenda](https://github.com/grincc/agenda/issues/25)| [Notes](notes/09-23-2021-council-meeting-notes.md) | Scilio Coinswap Milestone #1 Review, Grin Featured Exchange Updates  
