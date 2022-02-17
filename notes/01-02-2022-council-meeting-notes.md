@@ -20,7 +20,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 # Agenda Points & Decisions
 
-* __Decision__: Request for funding @dtavarez Feb-Apr 2022 **PENDING** 
+* __Decision__: Request for funding @dtavarez Feb-Apr 2022 **APPROVED** [[Decision]](https://github.com/grincc/agenda/blob/main/notes/02-15-2022-council-meeting-notes.md#1-david-tavarezs-funding-request-for-february-april-was-approved-by-a-formal-council-voteforum-request) 
 * Last meeting notes [here](https://github.com/grincc/agenda/blob/main/notes/18-01-2022-council-meeting-notes.md)
 * Current meeting [agenda](https://github.com/grincc/agenda/issues/36)
 
