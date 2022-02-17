@@ -28,7 +28,7 @@
 
 
 __anynomous__ : A few updates before we begin:
- 1) David Tavarez’s funding request for February-April was approved by a formal council vote:[forum request](https://forum.grin.mw/t/request-for-funding-davidtavarez-feb-apr-2022/9518/15) ####__Decision update 14__
+ 1) David Tavarez’s funding request for February-April was approved by a formal council vote[[forum request]](https://forum.grin.mw/t/request-for-funding-davidtavarez-feb-apr-2022/9518/15) ####__Decision update 14__
  2) First community miners are being tested and sent this week
  
 
