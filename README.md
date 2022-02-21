@@ -1,6 +1,9 @@
 
 # Community Meeting Notes and Agenda
 
+Grin Community Council is gathered every 1st and 3th Tuesday of the month with a predefined agenda in [Keybase#general](https://keybase.io/team/grincoin) channel. Everyone is free to offer agenda topics before the meetings, join the meetings and express their opinions and ideas in a friendly and respectful environment. Meetings can be followed on [GRIN community discord server](https://discord.gg/5p4vCQY9km) via GRIN discord bridge. If you have any questions, we also have an active community on Telegram [grinprivacy channel](https://t.me/grinprivacy).
+
+
 ## Decision log
 A chronological list of decisions made by the Community Council, with references. Available [here](decision_log.md).
 
