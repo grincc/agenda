@@ -7,6 +7,8 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+16 | 20220315| Approve funding @Cekickafa (Mar-May.22) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-03-15-council-meeting-notes.md#cekickafa-funding-request-for-mar-may-was-approved-by-a-formal-council-vote) |
+15 | 20220315| Approve funding @Jankie1800 (Mar-May.22) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-03-15-council-meeting-notes.md#jankie-funding-request-for-mar-may-was-approved-by-a-formal-council-vote) |
 14 | 20220215| Approve funding @dtavarez (Feb-Apr.21) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/15-02-2022-council-meeting-notes.md#1-david-tavarezs-funding-request-for-february-april-was-approved-by-a-formal-council-voteforum-request) |
 13 | 20220112| Include wishlist to council repos | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/18-01-2022-council-meeting-notes.md) |
 12 | 20211221| Approve funding @defistaker (Dec-Feb21/22) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/21-12-2021-council-meeting-notes.md) |
