@@ -141,7 +141,8 @@ __anynomous__ : In general I agree with improving github, especially linking eve
 __mcmmike__ : in favour 👍 - not in favour 👎 for [@cekickafa funding request](https://forum.grin.mw/t/request-for-funding-cekickafa-as-groundskeeper-mar-may-2022/9641)
  * :+1:(__dtavarez__, __hendi__, __mcmmike__, __anynomous__)
  * __anynomous__ : With the feedback: a) Check English, b) keep logs of activities
- 
+#### Cekickafa funding request for Mar-May was approved by a formal council vote
+
 __anynomous__ :  Congratulations @cekickafa 🚀💪 Time to work!
  * __cekickafa__ : 🙏 thank you all, for support !
  
