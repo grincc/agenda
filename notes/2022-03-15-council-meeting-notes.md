@@ -77,6 +77,7 @@ __dtavarez__ : And the other thing is that, I think we should be more careful wh
 __anynomous__ : Are we ready to proceed with a vote?
  * __mcmmike__ : in favour 👍 - not in favour 👎 for [@jankie funding request](https://forum.grin.mw/t/request-for-funding-groundskeeper-jankie-mar-may-2022/9623/6)
  * :+1:(__dtavarez__, __hendi__, __mcmmike__, __anynomous__)
+#### Jankie funding request for Mar-May was approved by a formal council vote
  * __anynomous__ : In that case 🎉 Congrats @jankie1800 , time again to work. I already send you a next task this morning😉
  * __jankie1800__ : I'm greatly appreciative of this community support. Thank you :) 🙏
  
