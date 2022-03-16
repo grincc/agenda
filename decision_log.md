@@ -5,7 +5,7 @@ This document tracks decisions made by the Grin community council and points to 
 
 ## Decisions
 
-ID | Date | Decision | Reference |   Jankie funding request for Mar-May was approved by a formal council vote
+ID | Date | Decision | Reference |
 |---|:---|:---|:---|
 15 | 20220315| Approve funding @Jankie1800 (Mar-May.22) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-03-15-council-meeting-notes.md#jankie-funding-request-for-mar-may-was-approved-by-a-formal-council-vote) |
 14 | 20220215| Approve funding @dtavarez (Feb-Apr.21) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/15-02-2022-council-meeting-notes.md#1-david-tavarezs-funding-request-for-february-april-was-approved-by-a-formal-council-voteforum-request) |
