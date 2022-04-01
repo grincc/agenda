@@ -13,7 +13,7 @@ A chronological list of decisions made by the Community Council, with references
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
-Mar 29 | [Agenda](https://github.com/grincc/agenda/issues/49)| [Notes](notes/2022-03-29-council-meeting-notes.md) | On-Ramping Active Community Members, Community Wish-List  
+Mar 26 | [Agenda](https://github.com/grincc/agenda/issues/49)| [Notes](notes/2022-03-26-council-meeting-notes.md) | On-Ramping Active Community Members, Community Wish-List  
 Mar 15 | [Agenda](https://github.com/grincc/agenda/issues/47)| [Notes](notes/2022-03-15-council-meeting-notes.md) | Telegram-Discord Bridge Status, Funding Decision @Jankie1800, Funding Decision @Cekickafa, Organizing Community Sub-Team, Increasing BISQ Awareness
 Mar 01 | [Agenda](https://github.com/grincc/agenda/issues/40)| [Notes](notes/2022-03-01-council-meeting-notes.md) | Exchange Exposure, GrinCC Website/Github Update, Bounty Strategy, Discuss Funding @jankie1800
 Feb 15 | [Agenda](https://github.com/grincc/agenda/issues/39)| [Notes](notes/2022-02-15-council-meeting-notes.md) | Update on Grin Community Website, Update on PIBD Development   
