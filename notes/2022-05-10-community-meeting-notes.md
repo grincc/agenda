@@ -121,7 +121,7 @@ __phyro__ : there's a "problem" described there. How much of a problem it really
 but solving also for this would be a bit much to begin, so I simplified to 2 parties
 
 
-__anynomous__ : Sure, makes sence.
+__anynomous__ : Sure, makes sense.
 Are there any other developments we need to share/discuss?, otherwise I propose we move to the second agenda item.
 
 __phyro__ :  if someone else finds time or wants to test things, I suggest we do that (I'm not sure anyone checked the testnet exchange flows and gave any feedback on this)
@@ -203,7 +203,7 @@ could be now or later is ok
 
 __phyro__ : I'm good with the suggestions. I only want it to not be in a country where the expenses are very high so that those that really want can afford to attend.
 
-__dtavarez__ : berlin is cheap and well connected
+__dtavarez__ : berlin is cheap and well connected.
 
 👍  (phyro)
 
@@ -221,11 +221,11 @@ __yeastplume__ : could definitely be done via a meetup group
 
 __dtavarez__ : yes
 
-__defistaker__ : I would love to attend but travel cost will be very high for a single day event for me
+__defistaker__ : I would love to attend but travel cost will be very high for a single day event for me.
 
-__yeastplume__ : but not tied to a particular city
+__yeastplume__ : but not tied to a particular city.
 
-__dtavarez__ : Correct
+__dtavarez__ : Correct.
 
 __cekickafa__ : i am planning to host at Turkiye for a few day or a week in the future.. Workshop near beach and sun. You swim and code with laptops : A nice scene for promotion, can make a viral video😂
 
@@ -272,11 +272,10 @@ Thanks 👋 (cekickafa, defistaker, yeastplume, )
  ## *Action points*
  - PIBD testing and RFC
  - Spend micro funds on documentation and video documentation as small incentives.
- - Prepare for Grin meetup.
+ - Explore ideas (date/city location ) for Grin meet-up.
  - Attend  Bitcoin Wednesday, a monthly meetup in Amsterdam.
 
 
-<br/>
 
 **Meeting adjourned.**
 
