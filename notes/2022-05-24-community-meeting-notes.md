@@ -218,7 +218,7 @@ Anyhow. It sounds like a good plan. Lets put out the bounties, but where?
 
 __dtavarez__ :  Forum?
 
-__anynomous__ : Sure, mabye we should also make a seperate bounty page at the grincc github page.
+__anynomous__ : Sure, mabye we should also make a separate bounty page at the grincc github page.
 Both
 
 __cekickafa__ : Excuse me but locating ip ,geo doesnt hinders privacy?
@@ -226,7 +226,7 @@ __cekickafa__ : Excuse me but locating ip ,geo doesnt hinders privacy?
 __anynomous__ : I have to go now.
 Thank you all for the meeting, and hope to see you soon.
 
-👋 cekickafa, defistake, dtavarez, phyro, yeastplume
+👋 cekickafa, defistaker, dtavarez, phyro, yeastplume
 
 Maybe you can still ask @yeastplume if there have been any recent developments.
 
@@ -240,7 +240,7 @@ Both
  __dtavarez__ : 
  >__cekickafa__ : Excuse me but locating ip ,geo doesnt hinders privacy?
 
- that would it be a good discussion
+ that is a good discussion
 but right now the geo location is only used to display the heatmap
 it is possible to unlink the geo information of the ip
 there is no need to save it
@@ -286,12 +286,13 @@ __anynomous__ : For note keeping, this meeting is now at an end 😉
 
 
    ## *Action points*
- - Grin Tipping bot for Telegram Bounty
- - Small bounties for   nodes.grincc.mw improvements
- - Forum post asking for more seed nodes
+ - Crosscheck and make sure  Grin ASIC vendors legit. 
+ - Grin  Telegram Bounty announcement.
+ - Small bounties for nodes.grincc.mw improvements.
+ - Forum post about  seed nodes.
 
 
-<br/>
+
 
 **Meeting adjourned.**
 
