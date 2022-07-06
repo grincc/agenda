@@ -4,7 +4,7 @@ Community Council (CC) meeting held @ 10 UTC in grincoin#general channel on Keyb
 
 Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact.
 
-### _Community attendence:_
+### _Community attendance:_
 
 * anynomous
 * yeastplume
