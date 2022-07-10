@@ -23,12 +23,11 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 -  Hiring and retaining long-term developers.
 -  Situation of MWixnet and review by @yeastplume.
 
-
-<br/>
+ 
 
 # Agenda Points & Actions
 
-<br/>
+ 
 
 * Last meeting notes here: https://github.com/grincc/agenda/tree/main/notes
 
@@ -40,8 +39,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
  
 ## 1) Update on prospect of SBBS for more user-friendly transactions- bounty, proposal, timetable etc.
-<br/>
-
+ 
 __anynomous__ : Our first agenda item for today:
 This item was added by jaw709, are you around?
 

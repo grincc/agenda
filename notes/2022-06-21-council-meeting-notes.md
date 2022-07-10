@@ -14,7 +14,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 * deeev
 * renzokuken
 * satoshocrat
-<br/>
+ 
 
 # Short Summary
 
@@ -23,12 +23,10 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 -  Bounty GRIN Telegram bot locked for @renzokuken.
 
 
-
-<br/>
+ 
 
 # Agenda Points & Actions
-
-<br/>
+ 
 
 * Last meeting notes here: https://github.com/grincc/agenda/tree/main/notes
 
@@ -316,6 +314,7 @@ __anynomous__ : all good, need to go thanks everyone!
 * Lock Telegram bounty for @renzokuken
 * Define objectives clearly for bounties.
 * Formalize implementation flow/documentation of GRIN Telegram bot.
+
 
 
 
