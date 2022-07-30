@@ -1,4 +1,4 @@
-# Council Meeting Notes May 24, 2022
+# Council Meeting Notes June 21, 2022
 
 Community Council (CC) meeting held @ 15 UTC in grincoin#general channel on Keybase. Meeting lasted 60  min.
 
@@ -18,8 +18,8 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 # Short Summary
 
--  Request funding for @cekickafa as groundskeeper discussed.
--  GRIN Telegram bot development, implementation flow/documentation discussed.
+-  Request funding for @cekickafa as groundskeeper is discussed.
+-  GRIN Telegram bot development, implementation flow/documentation is discussed.
 -  Bounty GRIN Telegram bot locked for @renzokuken.
 
 
