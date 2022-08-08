@@ -7,6 +7,12 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+22 | 20220621| GRIN Telegram bot Bounty closed for @renzokuken.| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-06-21-council-meeting-notes.md) |
+21 | 20220607|  Communicate with @scilio to validate MWixnet Milestone 2.| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-06-07-council-meeting-notes.md) |
+20 | 20220524| 10k ツ Bounty for GRIN Telegram bot announcement. Crosscheck ASIC vendors.| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-05-24-council-meeting-notes.md) |
+19 | 20220510| Spend micro funds for video and documentation. Explore ideas for Grin Meet-up| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-05-10-council-meeting-notes.md) |
+18 | 20220426| Approve Request for funding @davidtavarez May-July 2022| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-04-26-council-meeting-notes.md) |
+17 | 20220412| Approve of replacement @Paouky council seat with new GRINCC member| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-04-12-council-meeting-notes.md) |
 16 | 20220315| Approve funding @Cekickafa (Mar-May.22) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-03-15-council-meeting-notes.md#cekickafa-funding-request-for-mar-may-was-approved-by-a-formal-council-vote) |
 15 | 20220315| Approve funding @Jankie1800 (Mar-May.22) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-03-15-council-meeting-notes.md#jankie-funding-request-for-mar-may-was-approved-by-a-formal-council-vote) |
 14 | 20220215| Approve funding @dtavarez (Feb-Apr.21) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-02-15-council-meeting-notes.md#1-david-tavarezs-funding-request-for-february-april-was-approved-by-a-formal-council-voteforum-request) |
