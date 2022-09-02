@@ -18,22 +18,15 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 -  Discussion about Coinswap milestone 2 review 
 
-
- 
-
 # Agenda Points & Actions
- 
 
 * Last meeting notes here: https://github.com/grincc/agenda/tree/main/notes
 
 * Current meeting [agenda](https://github.com/grincc/agenda/issues/62
 
-
 __cekickafa__ : Maybe we rearrange meeting time. Anyway there is 1 topic today.Lets wait a little
 
 ## 1) Coinswap Milestone 2 Review & Approval to being work on Milestone 3 
-
-
 __dtavarez__ : the PR seems to be WIP still.
 
 https://github.com/mimblewimble/mwixnet/pull/3/commits
@@ -71,14 +64,9 @@ __scilio__ : I can do that. Hopefully @phyro, @dtavarez and @yeastplume can fini
 
 👍 cekickafa, johndavies
 
-
-
-
 ## *Action points*
 
 * Move discussion ''Coinswap Milestone 2 Review & Approval to being work on Milestone 3 '' to next meeting.
-
-
 
 
 **Meeting adjourned.**

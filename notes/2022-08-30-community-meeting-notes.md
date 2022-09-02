@@ -16,16 +16,11 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 * vegycslol
 
 
-
-
 # Short Summary
  
 -  Biweekly Meeting time zones discussed.
 -  Community Counsil members proof of existence.
--  
 
-
- 
 
 # Agenda Points & Actions
  
@@ -35,14 +30,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 * Current meeting [agenda](https://github.com/grincc/agenda/issues/64
 
 
-
-
-
-
-
 __mcmmike__ : lets wait a few more minutes for people to join.
-
-
 
 __anynomous__ : 👍 
 
@@ -146,13 +134,9 @@ thank you all for participating , dont be dissapointed it will get crowded in th
 💛 cekickafa
 
 
-
 ## *Action points*
 
 * Discuss the Biweekly meeting schedule at next meeting.
-
-
-
 
 
 **Meeting adjourned.**

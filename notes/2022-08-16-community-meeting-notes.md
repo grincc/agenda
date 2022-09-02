@@ -11,36 +11,21 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 * defistaker
 * scilio
 
-
-
 # Short Summary
  
 -  Request for funding @davidtavarez August-December 2022.
 -  Community Mining Project update
 -  Discussion about Coinswap milestone 2. 
 
-
- 
-
 # Agenda Points & Actions
- 
 
 * Last meeting notes here: https://github.com/grincc/agenda/tree/main/notes
 
 * Current meeting [agenda](https://github.com/grincc/agenda/issues/63
 
-
-
-
-
-
-
 __dtavarez__ : I would like to start with the Community Mining Project update.
 
-
-
 __cekickafa__ : 👍 cekickafa
-
 
 __dtavarez__ : I added a comment containing the latest update that I will just copy and paste here
  ## 1) Community Mining Project update
@@ -219,13 +204,10 @@ __dtavarez__ : thank you 👋
 __cekickafa__ : well, it was a good meeting. thank you all  👋
 
 
-
 ## *Action points*
 
 * Forum post for Community Mining Project update.
 * Review and test Coinswap Milestone 2 
-
-
 
 
 **Meeting adjourned.**
