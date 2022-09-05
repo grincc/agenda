@@ -13,8 +13,18 @@ A chronological list of decisions made by the Community Council, with references
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
-Apr 12 | [Agenda](https://github.com/grincc/agenda/issues/52)| [Notes](notes/2022-04-12-council-meeting-notes.md) | Open Discussions  
-Mar 29 | [Agenda](https://github.com/grincc/agenda/issues/49)| [Notes](notes/2022-03-29-council-meeting-notes.md) | On-Ramping Active Community Members, Community Wish-List  
+August 30| [Agenda](https://github.com/grincc/agenda/issues/65)| [Notes](notes/2022-08-30-community-meeting-notes.md) | Community Counsil Members ''proof of life'' request discussion by @johndavies24 |
+August 16| [Agenda](https://github.com/grincc/agenda/issues/63)| [Notes](notes/2022-08-16-community-meeting-notes.md) | Request funding for David Aug-December 2022, Community Mining Project update,  Testing Milestone 2: Next steps. |
+August 02| [Agenda](https://github.com/grincc/agenda/issues/62)| [Notes](notes/2022-08-02-community-meeting-notes.md) | Discussion about Coinswap milestone 2 review & approval to begin work on milestone 3. |
+July 19| [Agenda](https://github.com/grincc/agenda/issues/61)| [Notes](notes/2022-07-19-council-meeting-notes.md) | Grin Testnet, Open discussion. |
+July 05| [Agenda](https://github.com/grincc/agenda/issues/59)| [Notes](notes/2022-07-05-council-meeting-notes.md) | Open discussion about TX Contract flow. Funding request @satoshocrat July-Sept 2022  |
+June 21| [Agenda](https://github.com/grincc/agenda/issues/58)| [Notes](notes/2022-06-21-council-meeting-notes.md) |Bounty suggestions, Request for funding @cekickafa June-Sept 2022, Telegram bot bounty. |
+June 07| [Agenda](https://github.com/grincc/agenda/issues/57)| [Notes](notes/2022-06-07-council-meeting-notes.md) | Update on prospect of SBBS for more user-friendly transactions- bounty, proposal, timetable etc,  What to do about atomic swap needing completion, Update about review of coinswap phase 2 from @scilio,  Open discussions.  |
+May  24 | [Agenda](https://github.com/grincc/agenda/issues/56)| [Notes](notes/2022-05-24-community-meeting-notes.md) | Adding the telegram link  to the bottom of grin.mw, Discuss ideas about mining decentralization and how to promote it & how to engage with Chinese miners and users, Small bounties (Grin Tipping bot for Telegram & Changes to Grin Nodes) |
+May  10 | [Agenda](https://github.com/grincc/agenda/issues/55)| [Notes](notes/2022-05-10-community-meeting-notes.md) | Discuss the outcome of a CC reflection on the past year and brainstorm on future direction of the CC. Open discussions. |
+Apr 26 | [Agenda](https://github.com/grincc/agenda/issues/54)| [Notes](notes/2022-04-26-council-meeting-notes.md) | Request for funding @davidtavarez May-July 2022. Discuss what funding or donation format would be best to support the creation of Ascendio Grin book  |
+Apr 12 | [Agenda](https://github.com/grincc/agenda/issues/52)| [Notes](notes/2022-04-12-council-meeting-notes.md) | Open Discussions  |
+Mar 29 | [Agenda](https://github.com/grincc/agenda/issues/49)| [Notes](notes/2022-03-15-council-meeting-notes.md) |  On-Ramping Active Community Members, Community Wish-List |
 Mar 15 | [Agenda](https://github.com/grincc/agenda/issues/47)| [Notes](notes/2022-03-15-council-meeting-notes.md) | Telegram-Discord Bridge Status, Funding Decision @Jankie1800, Funding Decision @Cekickafa, Organizing Community Sub-Team, Increasing BISQ Awareness
 Mar 01 | [Agenda](https://github.com/grincc/agenda/issues/40)| [Notes](notes/2022-03-01-council-meeting-notes.md) | Exchange Exposure, GrinCC Website/Github Update, Bounty Strategy, Discuss Funding @jankie1800
 Feb 15 | [Agenda](https://github.com/grincc/agenda/issues/39)| [Notes](notes/2022-02-15-council-meeting-notes.md) | Update on Grin Community Website, Update on PIBD Development   
