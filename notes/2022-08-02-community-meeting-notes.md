@@ -16,7 +16,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 # Short Summary
 
--  Discussion about Coinswap milestone 2 review 
+-  Discussion about Coinswap Milestone 2 delayed to next meeting due to absence of scilio, timing mismatch. 
 
 # Agenda Points & Actions
 

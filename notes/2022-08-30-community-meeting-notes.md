@@ -19,7 +19,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 # Short Summary
  
 -  Biweekly Meeting time zones discussed.
--  Community Counsil members proof of existence.
+-  Community Council members proof of existence validated with a transaction.
 
 
 # Agenda Points & Actions

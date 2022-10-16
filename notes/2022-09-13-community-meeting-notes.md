@@ -20,9 +20,9 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 # Short Summary
  
--  Biweekly Meeting schedule affirmed.
--  Bounty for writing a CFFI wrapper of secp256k1-zkp fork. (https://forum.grin.mw/requesting-help-with-writing-a-cffi-wrapper-of-our-secp256k1-zkp-fork/10024 ) has been discussed.
-- Retroactive Grants like idea (https://blog.opengsn.org/taking-retroactive-grants-from-concept-to-practice-at-gitcoin-grants-round-11-649497d08519).
+- Biweekly Meeting schedule affirmed.
+- Bounty amount for writing a CFFI wrapper of secp256k1-zkp fork has been discussed.
+- Retroactive Grants like idea proposal has been discussed.
 
 
 # Agenda Points & Actions
@@ -72,7 +72,8 @@ __anynomous__ : Perfect. In that case I think we should take a passive approach,
 👍   cekickafa, defistaker, phyro ,dtavarez, deeev.
 
 
-##  2)   Bounty for writing a CFFI wrapper of secp256k1-zkp fork. (https://forum.grin.mw/requesting-help-with-writing-a-cffi-wrapper-of-our-secp256k1-zkp-fork/10024 )
+##  2)   Bounty for writing a CFFI wrapper of secp256k1-zkp fork
+ (https://forum.grin.mw/requesting-help-with-writing-a-cffi-wrapper-of-our-secp256k1-zkp-fork/10024 )
 
 __anynomous__ :  I discussed this with @dtavarez . I find it hard to estimate, but for now we got to an estimate of 10-20k in euro as bounty for the wrapper. Conditions are, open source (Apache or MIT), well documented and sufficient test cases for the wrapper.
 @renzokuken propose making the bounty extendible. For that reason we thought 10k as a basis might be enough, extending to 20k if it can with sufficient argumentation be shown that additional time and work was needed.
@@ -218,7 +219,8 @@ __dtavarez__ : can we move to the next topic:
 
 deeev, anonymous, cekickafa, renzokuken 👍
 
-##  3) Retroactive Grants like idea (https://blog.opengsn.org/taking-retroactive-grants-from-concept-to-practice-at-gitcoin-grants-round-11-649497d08519)
+##  3) Retroactive Grants like idea
+ (https://blog.opengsn.org/taking-retroactive-grants-from-concept-to-practice-at-gitcoin-grants-round-11-649497d08519)
 
 __dtavarez__ : Retroactive grants in summary;
 

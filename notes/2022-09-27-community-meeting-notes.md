@@ -19,8 +19,8 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 # Short Summary
  
-- [Request for funding](https://forum.grin.mw/t/request-for-funding-cekickafa-september-december-2022/10023) @cekickafa voted.
-- Testnet miner issue & [Request for funding @mattczt October 2022](https://forum.grin.mw/t/request-for-funding-mattczt-october-2022/10034 ) has been discussed.
+- [Request for funding](https://forum.grin.mw/t/request-for-funding-cekickafa-september-december-2022/10023) @cekickafa voted and approved by present members.
+- Testnet miner location and running costs are discussed in conjuction with [Request for funding @mattczt October 2022](https://forum.grin.mw/t/request-for-funding-mattczt-october-2022/10034 ) has been discussed.
 
 
 # Agenda Points & Actions

@@ -13,9 +13,9 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 # Short Summary
  
--  Request for funding @davidtavarez August-December 2022.
--  Community Mining Project update
--  Discussion about Coinswap milestone 2. 
+-  No objections raised for Request for funding @davidtavarez August-December 2022 from community.
+-  Community Mining Project/ facility costs and location discussed.
+-  Discussion about Coinswap milestone 2 and phase 3 delivery plan discussed. 
 
 # Agenda Points & Actions
 
@@ -28,6 +28,7 @@ __dtavarez__ : I would like to start with the Community Mining Project update.
 __cekickafa__ : 👍 cekickafa
 
 __dtavarez__ : I added a comment containing the latest update that I will just copy and paste here
+
  ## 1) Community Mining Project update
 
 As for the Community Mining Project, 5 G1 minis are already connected. So far everything is going well, it remains to be determined how the procedure to manage the process would be. The process should include: who would be responsible for ensuring that everything is working properly, as well as who would be responsible for making withdrawals to the corresponding portfolio.
@@ -73,7 +74,7 @@ that will give more time to people to comment on.
 
 Next topic.
 
-## 2) Request for funding @davidtavarez August-December 2022.
+## 2) Request for funding @davidtavarez August-December 2022
 
  https://forum.grin.mw/t/request-for-funding-davidtavarez-august-december-2022/9952
 
@@ -99,7 +100,7 @@ no i mean people joining to meeting, i will fully support a developer for sure.
 
 __dtavarez__ : so 5 more minutes to then enter to the meat of the meeting: mwixnet next steps (?)
 
-## 3) Discussion about Coinswap milestone 2.
+## 3) Discussion about Coinswap milestone 2
 
 __cekickafa__ : well, @scilio is here i think.
 
@@ -206,7 +207,7 @@ __cekickafa__ : well, it was a good meeting. thank you all  👋
 
 ## *Action points*
 
-* Forum post for Community Mining Project update.
+* Forum post for Community Mining Project update
 * Review and test Coinswap Milestone 2 
 
 
