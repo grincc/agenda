@@ -13,6 +13,8 @@ A chronological list of decisions made by the Community Council, with references
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
+September 27| [Agenda](https://github.com/grincc/agenda/issues/68)| [Notes](notes/2022-09-27-community-meeting-notes.md) |Request funding @cekickafa September -December 15 2022, Test miner issue & Request fumding for @mattczt . |
+September 13| [Agenda](https://github.com/grincc/agenda/issues/66)| [Notes](notes/2022-09-13-community-meeting-notes.md) | Bounty for writing a CFFI wrapper of secp256k1-zkp fork,Community Biweekly meeting Schedule, Retroactive Grants like idea . |
 August 30| [Agenda](https://github.com/grincc/agenda/issues/65)| [Notes](notes/2022-08-30-community-meeting-notes.md) | Community Counsil Members ''proof of life'' request discussion by @johndavies24 |
 August 16| [Agenda](https://github.com/grincc/agenda/issues/63)| [Notes](notes/2022-08-16-community-meeting-notes.md) | Request funding for David Aug-December 2022, Community Mining Project update,  Testing Milestone 2: Next steps. |
 August 02| [Agenda](https://github.com/grincc/agenda/issues/62)| [Notes](notes/2022-08-02-community-meeting-notes.md) | Discussion about Coinswap milestone 2 review & approval to begin work on milestone 3. |
