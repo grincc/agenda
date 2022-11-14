@@ -7,6 +7,11 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+27 | 20220830| Review Biweekly meeting schedule| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-08-30-community-meeting-notes.md) |
+26 | 20220816| Approval Coinswap Milestone #2 and continue for Milestone #3 by @scilio, Approved @dtavarez funding request August-December 2022, | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-08-16-community-meeting-notes.md) |
+25 | 20220802| Review Coinswap Milestone #2| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-08-02-community-meeting-notes.md) |
+24 | 20220719| Set Goal for having at least 5 seed nodes and run Faucet for testnet| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-07-19-council-meeting-notes.md) |
+23 | 20220705| Approved funding Cekickafa for June-September 2022, Satoshocrat funding approved for July-September 2022 | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-07-05-council-meeting-notes.md) |
 22 | 20220621| GRIN Telegram bot Bounty closed for @renzokuken.| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-06-21-council-meeting-notes.md) |
 21 | 20220607|  Communicate with @scilio to validate MWixnet Milestone 2.| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-06-07-council-meeting-notes.md) |
 20 | 20220524| 10k ツ Bounty for GRIN Telegram bot announcement. Crosscheck ASIC vendors.| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-05-24-council-meeting-notes.md) |

@@ -32,11 +32,6 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 * Current meeting [agenda](https://github.com/grincc/agenda/issues/61)
   
   
-  1) GRIN TESTNET
-
-  2) Open Discussion
-
- 
  
 ## 1) GRIN TESTNET
 
