@@ -363,9 +363,10 @@ __anynomous__ : So indeed, the bounty is managed by the OC. They can make these 
 
 I think that means we discussed all our agenda topics for today.
 Lets all remember our TO DO's.
-# TO DO 1: Give our opinion on the forum, think on procedural improvements, expectations, habits as well as our personal responsibility as part of the CC.
 
-# TO DO 2: Give our opinion on the mining farm in the CC Telegram chat.
+- TO DO 1: Give our opinion on the forum, think on procedural improvements, expectations, habits as well as our personal responsibility as part of the CC.
+
+- TO DO 2: Give our opinion on the mining farm in the CC Telegram chat.
 
 __cekickafa__ : 👍 
 
