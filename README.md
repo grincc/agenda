@@ -13,10 +13,14 @@ A chronological list of decisions made by the Community Council, with references
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
-September 27| [Agenda](https://github.com/grincc/agenda/issues/68)| [Notes](notes/2022-09-27-community-meeting-notes.md) |Request funding @cekickafa September -December 15 2022, Test miner issue & Request fumding for @mattczt . |
-September 13| [Agenda](https://github.com/grincc/agenda/issues/66)| [Notes](notes/2022-09-13-community-meeting-notes.md) | Bounty for writing a CFFI wrapper of secp256k1-zkp fork,Community Biweekly meeting Schedule, Retroactive Grants like idea . |
+November 22| [Agenda](https://github.com/grincc/agenda/issues/71)| [Notes](notes/2022-11-22-community-meeting-notes.md) |*Grin CC should be paused until further notice and funds must be returned, **Proposal to add a payment management roll to the Groundskeeper duties, **Unlock the python CFFI secp256k1-zkp wrapper and Ledger hardware wallet support bounties.|
+November 08| [Agenda](https://github.com/grincc/agenda/issues/71)| [Notes](notes/2022-11-08-community-meeting-notes.md) |MW/Grin Workshop+Hackaton in Istanbul, **Request for funding duty tax bill for testnet miner sent to @mattczt3. |
+October 25| [Agenda](https://github.com/grincc/agenda/issues/70)| [Notes](notes/2022-10-25-community-meeting-notes.md) |Grin v5.2.0-alpha.2 Release & Things to test. |
+October 11| [Agenda](https://github.com/grincc/agenda/issues/69)| [Notes](notes/2022-10-11-community-meeting-notes.md) |Request funding @satoshocrat assisting groundkeeper  Oct -December 15 2022, **Test Miner donations & locations. |
+September 27| [Agenda](https://github.com/grincc/agenda/issues/68)| [Notes](notes/2022-09-27-community-meeting-notes.md) |Request funding @cekickafa September -December 15 2022, **Test miner issue & Request fumding for @mattczt . |
+September 13| [Agenda](https://github.com/grincc/agenda/issues/66)| [Notes](notes/2022-09-13-community-meeting-notes.md) | Bounty for writing a CFFI wrapper of secp256k1-zkp fork,**Community Biweekly meeting Schedule, **Retroactive Grants like idea . |
 August 30| [Agenda](https://github.com/grincc/agenda/issues/65)| [Notes](notes/2022-08-30-community-meeting-notes.md) | Community Counsil Members ''proof of life'' request discussion by @johndavies24 |
-August 16| [Agenda](https://github.com/grincc/agenda/issues/63)| [Notes](notes/2022-08-16-community-meeting-notes.md) | Request funding for David Aug-December 2022, Community Mining Project update,  Testing Milestone 2: Next steps. |
+August 16| [Agenda](https://github.com/grincc/agenda/issues/63)| [Notes](notes/2022-08-16-community-meeting-notes.md) | Request funding for David Aug-December 2022, **Community Mining farm Project update,  ** Testing Milestone 2: Next steps. |
 August 02| [Agenda](https://github.com/grincc/agenda/issues/62)| [Notes](notes/2022-08-02-community-meeting-notes.md) | Discussion about Coinswap milestone 2 review & approval to begin work on milestone 3. |
 July 19| [Agenda](https://github.com/grincc/agenda/issues/61)| [Notes](notes/2022-07-19-council-meeting-notes.md) | Grin Testnet, Open discussion. |
 July 05| [Agenda](https://github.com/grincc/agenda/issues/59)| [Notes](notes/2022-07-05-council-meeting-notes.md) | Open discussion about TX Contract flow. Funding request @satoshocrat July-Sept 2022  |
