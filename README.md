@@ -13,7 +13,7 @@ A chronological list of decisions made by the Community Council, with references
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
-November 22| [Agenda](https://github.com/grincc/agenda/issues/71)| [Notes](notes/2022-11-22-community-meeting-notes.md) |*Grin CC should be paused until further notice and funds must be returned, **Proposal to add a payment management roll to the Groundskeeper duties, **Unlock the python CFFI secp256k1-zkp wrapper and Ledger hardware wallet support bounties.|
+November 22| [Agenda](https://github.com/grincc/agenda/issues/72)| [Notes](notes/2022-11-22-community-meeting-notes.md) |*Grin CC should be paused until further notice and funds must be returned, **Proposal to add a payment management roll to the Groundskeeper duties, **Unlock the python CFFI secp256k1-zkp wrapper and Ledger hardware wallet support bounties.|
 November 08| [Agenda](https://github.com/grincc/agenda/issues/71)| [Notes](notes/2022-11-08-community-meeting-notes.md) |MW/Grin Workshop+Hackaton in Istanbul, **Request for funding duty tax bill for testnet miner sent to @mattczt3. |
 October 25| [Agenda](https://github.com/grincc/agenda/issues/70)| [Notes](notes/2022-10-25-community-meeting-notes.md) |Grin v5.2.0-alpha.2 Release & Things to test. |
 October 11| [Agenda](https://github.com/grincc/agenda/issues/69)| [Notes](notes/2022-10-11-community-meeting-notes.md) |Request funding @satoshocrat assisting groundkeeper  Oct -December 15 2022, **Test Miner donations & locations. |
