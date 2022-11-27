@@ -1,5 +1,5 @@
 
-# Community Meeting Notes November 08, 2022
+# Community Meeting Notes November 22, 2022
 
 Community Council (CC) meeting held @ 10:00 UTC in grincoin#general channel on Keybase. Meeting lasted 52  min.
 
