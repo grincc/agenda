@@ -68,7 +68,7 @@ __yeastplume__ : sure, but I'm going to run through the list closer to release t
 __phyro__ : yes, i agree.
 
 __MCMMike__ : 
->_yeastplume__ : we have a list of seed nodes. I was going to merge them into the next alpha release (but I'd like the couple of outstanding issues that are filling up resource descriptiors or causing nodes to stop to be addressed first(
+>__yeastplume__ : we have a list of seed nodes. I was going to merge them into the next alpha release (but I'd like the couple of outstanding issues that are filling up resource descriptiors or causing nodes to stop to be addressed first(
 
 you mean the mainnet seed nodes or testnet , as we from Grinnode will provide some relyable test-nodes soon as well. 
 We are already in the DNS seed for mainnet and could provide some stable nodes for testnet also
