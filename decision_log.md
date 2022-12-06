@@ -26,7 +26,7 @@ ID | Date | Decision | Reference |
 17 | 20220412| Approve of replacement @Paouky council seat with new GRINCC member| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-04-12-council-meeting-notes.md) |
 16 | 20220315| Approve funding @Cekickafa (Mar-May.22) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-03-15-council-meeting-notes.md#cekickafa-funding-request-for-mar-may-was-approved-by-a-formal-council-vote) |
 15 | 20220315| Approve funding @Jankie1800 (Mar-May.22) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-03-15-council-meeting-notes.md#jankie-funding-request-for-mar-may-was-approved-by-a-formal-council-vote) |
-14 | 20220215| Approve funding @dtavarez (Feb-Apr.21) | [Meeting Note](https://ithub.com/grincc/agenda/blob/main/notes/2022-02-15-council-meeting-notes.md#1-david-tavarezs-funding-request-for-february-april-was-approved-by-a-formal-council-voteforum-request) |
+14 | 20220215| Approve funding @dtavarez (Feb-Apr.21) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-02-15-council-meeting-notes.md#1-david-tavarezs-funding-request-for-february-april-was-approved-by-a-formal-council-voteforum-request) |
 13 | 20220112| Include wishlist to council repos | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-01-18-council-meeting-notes.md) |
 12 | 20211221| Approve funding @defistaker (Dec-Feb21/22) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2021-12-21-council-meeting-notes.md) |
 11 | 20211221| Approve funding @newjack777 (Dec-Feb21/22) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2021-12-21-council-meeting-notes.md) |

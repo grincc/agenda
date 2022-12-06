@@ -113,8 +113,8 @@ __vegycslol__ : 👋
 ## *Action points*
 
 
-*  Function testnet miners asap.
-*  test syncing nodes from scratch on testnet, as well as resuming them after leaving them offline for more than a week.
+* Get testnet miners functional asap.
+* Test syncing nodes from scratch on testnet, as well as resuming them after leaving them offline for more than a week.
 
 
 **Meeting adjourned.**
