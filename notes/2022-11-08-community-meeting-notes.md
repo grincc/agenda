@@ -113,11 +113,11 @@ __dtavarez__ :
 
 Did he receive it already?
 
-__cekickafa__ : Yes, he dİd.
+__cekickafa__ : Yes, he did.
 
 __dtavarez__ : Is his miner running?
 
-__cekickafa__ : Not yet, but maybe running witihin days. Will ask him.
+__cekickafa__ : Not yet, but maybe running within days. Will ask him.
 
 __dtavarez__ : How can we verify that?
 

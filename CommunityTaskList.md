@@ -28,4 +28,4 @@
 |22 November 2022| Voting process for pausing-dissolving Grincc and returning funds to OC|Being discussed on forum.| [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-22-community-meeting-notes.md)     | In progress |
 |22 November 2022| Give opinion about community farm project.| Being discussed on GrinCC channel and on forum. | [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-22-community-meeting-notes.md) | In progress |
 |22 November 2022| Proposal  to Add payment management and tracking duties|Proposal made, voted and accepted, duty assigned to @cekickafa.| [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-22-community-meeting-notes.md)   | ✅  |
-|22 November 2022| Funding @davidtavarez for shipping miners to community farm.|Discussed,  funding accepted by vote and paid.| [notes]( https://github.com/grincc/agenda/blob/main/notes/2022-11-08-community-meeting-notes.md) | ✅  |
+|22 November 2022| Funding -- for shipping miners to community farm.|Discussed,  funding accepted by vote and paid.| [notes]( https://github.com/grincc/agenda/blob/main/notes/2022-11-08-community-meeting-notes.md) | ✅  |
