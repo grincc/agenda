@@ -23,12 +23,14 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 # Short Summary
  
 - Dissolving the GRINCC and returning funds [opinion ](https://forum.grin.mw/t/pause-grin-community-council-we-need-your-opinion/10185 ) is **voted against** due to feedback from community and council members.
-- Suggestions about allowing GrinCC Github access to groundskeeper. 
+- Suggestion about allowing GrinCC Github access to groundskeeper is voted & agreed. 
 - The demand for **unlocking** [Support for Nano Hardware wallet bounty](https://forum.grin.mw/t/locked-support-ledger-wallet/8517 ) decision is left to Original council.
 - On Python wrapper bounty  current [progress](https://forum.grin.mw/t/locked-python-cffi-secp256k1-zkp-wrapper-bounty/10030 ), @cekickafa will contact @walkbackgod.
 - Process of payment managements about approved funding requests is to be tracked by @cekickafa. 
 - A time period of **48 hours** is defined with regard to the signing of transactions by key holders for approved funding requests. 
 - Community farming project management is being discussed.
+- Test miners check-management is discussed.
+- Gui wallet development is mentioned by  @yeastplume.
 
 # Agenda Points & Actions
  

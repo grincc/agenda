@@ -13,6 +13,7 @@ A chronological list of decisions made by the Community Council, with references
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
+December 06| [Agenda](https://github.com/grincc/agenda/issues/73)| [Notes](notes/2022-12-06-community-meeting-notes.md) |*Vote for Dissolving GrinCC and return funds to OC, **Test miners electricity costs requests, **Unlock the python CFFI secp256k1-zkp wrapper and Ledger hardware wallet support bounties.*Mining farm management discussion.Procedural improvements, expectations, habits,personal responsibility as part of the CC. |
 November 22| [Agenda](https://github.com/grincc/agenda/issues/72)| [Notes](notes/2022-11-22-community-meeting-notes.md) |*Grin CC should be paused until further notice and funds must be returned, **Proposal to add a payment management roll to the Groundskeeper duties, **Unlock the python CFFI secp256k1-zkp wrapper and Ledger hardware wallet support bounties.|
 November 08| [Agenda](https://github.com/grincc/agenda/issues/71)| [Notes](notes/2022-11-08-community-meeting-notes.md) |MW/Grin Workshop+Hackaton in Istanbul, **Request for funding duty tax bill for testnet miner sent to @mattczt3. |
 October 25| [Agenda](https://github.com/grincc/agenda/issues/70)| [Notes](notes/2022-10-25-community-meeting-notes.md) |Grin v5.2.0-alpha.2 Release & Things to test. |
