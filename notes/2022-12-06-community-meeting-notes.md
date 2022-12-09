@@ -7,7 +7,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 ### _Community attendance:_
 
-* nicolasflamel
+* nicolasflamel1
 * cekickafa
 * dtavarez
 * defistaker
@@ -15,7 +15,6 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 * yeastplume
 * quentinlesceller
 * future3ooo
-* yeastplume
 
 
 
@@ -64,14 +63,15 @@ https://github.com/grincc/agenda/issues/73#issuecomment-1338374177
 
 Brief summary from forum discussions:
 
-not everything is included
+not everything is included.
 
   __Question for all CC members__: Does anyone want to leave?
 
   __Vote__: Should a groundskeeper be added as a keyholder and be responsible for drafting all transactions ? inline with this proposal [here:](https://github.com/grincc/agenda/issues/72#issuecomment-1321260181 ) 
 
   __Agenda__: Community Council (CC), 22 November 2022 #72 (comment)
-  __Vote__: Should the limit to send a transaction from an approved funding request be 24 or 48 hours
+
+  __Vote__: Should the limit to send a transaction from an approved funding request be 24 or 48 hours?
 
    __Discussion__ : If a grounds keeper is not added as a key holder, then who's responsibility will it be for drafting transactions ?
 
@@ -106,15 +106,15 @@ __future3ooo__ : I vote no to dissolving.
 __anynomous__ : I also vote agains disolving, I want to make procedural improvements, but am 100% against stopping our activity all together.
 
 __dtavarez__ : maybe we could integrate some of the lessons learned to the procedures
-that would it be a good outcome imo
+that would it be a good outcome imo.
 
-👍 future3ooo, anonymous
+👍 future3ooo, anynomous
 
 __anynomous__ : One of the most important improvements we have to make is to define a clear habit of paying transactions after CC meetings. In this way we can be more efficient since we know that payments are every 2 weeks, and at the same time we make clear to those who have Funding Requests when they can expect payments.
 Secondly we have to define the time maximally needed to sign a transaction. I propose 48h with an aim of being better than this minimal requirement and drafting and signing most payments within 24 hours after a meeting.
 
 __dtavarez__ : I think the only disagreement I have is in regards to that
-I prefer 24 hours
+I prefer 24 hours.
 
 __cekickafa__ : 48h is better than 24h.
 
@@ -135,7 +135,7 @@ __dtavarez__ :
 
 >__future3ooo__ :What about if someone wants to leave the CC?
 
-a new CC member can be added like @mo5itoo was added same process
+a new CC member can be added like @mo5itoo was added same process.
 
 __anynomous__ : I agree with @dtavarez, in case someone wants to leave we can ask the community if they are ok with voting in a groundkeeper.
 One worry I still have about our improvements is who calculates and drafts transactions, it is quite time consuming, signing is manageable, but firs tracking, calculating and drafting transaction is quite a bit of work.
@@ -163,13 +163,13 @@ __anynomous__ : If someone wants to leave, lets leave it those members themselve
 
 Lets vote here and now on giving access to @cekickafa for Github. Should we also give @satoshocrat access to the Grin CC Github?
 
-__dtavarez__ : both I think
+__dtavarez__ : both I think.
 
 👍 anynomous
 
 __anynomous__ : I think both would be best, in case @cekickafa gets ill or needs some time for something else.
 
-__future3ooo__ : I’m happy for both
+__future3ooo__ : I’m happy for both.
 
 👍 dtavarez
 
@@ -204,7 +204,7 @@ __anynomous__ : Ok. I would see this as optional. Only if and when time and moti
 
 We should also make sure that withdrawing is relatively easy and that at least two members can have the access, similar to the wallet.  We could even make so that all members who have access to the Grin CC wallet, also have access to the mining pool account.
 
-__dtavarez__ : true. then we can open the debate in the forum and wait for someone to assume the responsibilities
+__dtavarez__ : true. then we can open the debate in the forum and wait for someone to assume the responsibilities.
 
 
 __anynomous__ : Maybe you can explain later in the CC chat how difficult or easy withdrawing is.
