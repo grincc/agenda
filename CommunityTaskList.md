@@ -25,7 +25,7 @@
 |25 Ocotober 2022| Activate Grin testnet.|Testnet miners are active.| [notes](https://github.com/grincc/agenda/blob/main/notes/2022-10-25-community-meeting-notes.md) | ✅  |
 |08 November 2022 |MW/Grin Workshop+Hackaton in Istanbul idea discussion|Discussion placed on forum about details, time and costs and technical contents.|  [notes](https://github.com/grincc/agenda/issues/71)   | In progress |
 |08 November 2022| Funding request for @mattczt3| Accepted, costs to be calculated. | [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-08-community-meeting-notes.md)    | In progress |
-|22 November 2022| Voting process for pausing-dissolving Grincc and returning funds to OC|Being discussed on forum.| [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-22-community-meeting-notes.md)     | In progress |
+|22 November 2022| Voting process for pausing-dissolving Grincc and returning funds to OC| Discussed and voted against.| [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-22-community-meeting-notes.md)     |✅   |
 |22 November 2022| Give opinion about community farm project.| Being discussed on GrinCC channel and on forum. | [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-22-community-meeting-notes.md) | In progress |
 |22 November 2022| Proposal  to Add payment management and tracking duties|Proposal made, voted and accepted, duty assigned to @cekickafa.| [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-22-community-meeting-notes.md)   | ✅  |
 |22 November 2022| Funding -- for shipping miners to community farm.|Discussed,  funding accepted by vote and paid.| [notes]( https://github.com/grincc/agenda/blob/main/notes/2022-11-08-community-meeting-notes.md) | ✅  |
