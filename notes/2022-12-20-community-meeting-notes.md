@@ -194,7 +194,7 @@ For me it is ok to take the vote further to the other CC members since we have a
 Next agenda point.
 
 
-##     2) Request for funding @cobragrin Dec-March 2023.
+##  2) Request for funding @cobragrin Dec-March 2023.
 
 [Forum Discussion](https://forum.grin.mw/t/request-for-funding-cobragrin-december-2022-march-2023/10208/4  )
 
