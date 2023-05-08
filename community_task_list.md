@@ -1,8 +1,8 @@
 
 
-# Grin Community Task List
+# Grin Community Task (TO DO)  List
 
-**(June 2022 - November 2022)**
+**(June 2022 - MARCH 2023 period)**
 
 
 | Date | Tasks | Progress info| Meeting notes | Status |
@@ -24,7 +24,7 @@
 |11 October 2022| Discuss for testminers deployment|1 G1-mini test miner to @mattczt and 1 G1 mini test miner to @naive shipped.| [notes](https://github.com/grincc/agenda/blob/main/notes/2022-10-11-community-meeting-notes.md) | ✅  |
 |25 Ocotober 2022| Activate Grin testnet.|Testnet miners are active.| [notes](https://github.com/grincc/agenda/blob/main/notes/2022-10-25-community-meeting-notes.md) | ✅  |
 |08 November 2022 |MW/Grin Workshop+Hackaton in Istanbul idea discussion|Discussion placed on forum about details, time and costs and technical contents.|  [notes](https://github.com/grincc/agenda/issues/71)   | In progress |
-|08 November 2022| Funding request for @mattczt3| Accepted, costs to be calculated. | [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-08-community-meeting-notes.md)    | In progress |
+|08 November 2022| Funding request for @mattczt3| Accepted, costs to be calculated. Paid | [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-08-community-meeting-notes.md)    | ✅  
 |22 November 2022| Voting process for pausing-dissolving Grincc and returning funds to OC| Discussed and voted against.| [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-22-community-meeting-notes.md)     |✅   |
 |22 November 2022| Give opinion about community farm project.| Being discussed on GrinCC channel and on forum. | [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-22-community-meeting-notes.md) | In progress |
 |22 November 2022| Proposal  to Add payment management and tracking duties|Proposal made, voted and accepted, duty assigned to @cekickafa.| [notes](https://github.com/grincc/agenda/blob/main/notes/2022-11-22-community-meeting-notes.md)   | ✅  |
@@ -33,7 +33,10 @@
 |20 December 2022| Request for funding @dtavarez. Request for funding @cekickafa. Request for funding @satoshocrat |Discussed, Tasks defined and voted .| [notes]( https://github.com/grincc/agenda/blob/main/notes/2022-12-20-community-meeting-notes.md) | ✅  |
 |20 December 2022| Request for funding @mattczt3. Request for funding @naive. |Discussed and paid .| [notes]( https://github.com/grincc/agenda/blob/main/notes/2022-12-20-community-meeting-notes.md) | ✅  
 |25 December 2022| Funding @dtavarez Jan-Apr 2023 Funding @satosohcrat Jan-Apr 2023 @cekickafa Dec-March 2023 |Voted and paid.|- | ✅ 
+|10 January 2023 | Contacted Kucoin exchange and provided necessary documents and assistance for GRIN integration. @McmMike | Exchange FAQ published for exchanges | [Docs](https://github.com/grincc/hub/blob/main/exchange-faq.md ) | ✅ 
 |29 January  2023| Grin Wallet Balance financial 2022 year period. |Reviewed and merged by 4 of 6 GRINCC members. | [notes]( https://github.com/grincc/finance/blob/main/grincc-wallet.md) | ✅ 
-|31 January  2023|  Python cffi secp256k1-zkp wrapper - bounty reviewed and accepted. |Bounty paid to @nicolasflamel1.|- | ✅ 
+|31 January  2023|  Python cffi secp256k1-zkp wrapper - bounty reviewed and accepted. |Bounty paid to @nicolasflamel1.| [notes](https://github.com/grincc/finance/blob/35007a8527ade542fbcc6610ee66120f3e6b9fa7/spending_log.csv ) | ✅ 
 |27 February 2023| GRIN Meme Contest finalized. | Rewards paid with Grin ツ |  [notes]( https://forum.grin.mw/t/2023-meme-contest-anything-goes-just-have-fun-meming/10254/105 ) | ✅  
 |24 March    2023| GRINCC Payments tracking - BTC Fund Balance simplified.    | Payment details and  Balance of BTC Fund ,status and Updated, Review done by GRINCC Members.| [notes]( https://github.com/grincc/finance/blob/68ea456a5be69acd5f901974acd564350a2c6695/payment-tracking.md ) | ✅ 
+|25 April 2023| Update GrinCC funding Order Scheme. Update Grincc.mw site/Add Links. Assign GK to track funding requests progress. |
+
