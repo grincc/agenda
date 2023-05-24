@@ -19,7 +19,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
  
 - MW/Grin Workshop+Hackaton in Istanbul idea introduced and decided to discuss more broadly on forum about planning budget, organizing  and technical details.
 - Running testnet.explorer to check testminers  agreed.
-- Funding duty tax bill for testnet miner sent to @mattczt3 is mentioned
+- Funding duty tax bill for testnet miner sent to @mattczt3 is mentioned.
 # Agenda Points & Actions
  
 
@@ -33,7 +33,7 @@ First agenda point:
 
 
 
-##  1) MW/Grin Workshop+Hackaton in Istanbul.
+##  1) MW/Grin Workshop+Hackaton in Istanbul
 
 
 __anonymous__ : Lets take 1 minute to review the agenda, if any more items need to be added let us know.
@@ -43,8 +43,7 @@ __dtavarez__ : I already introduced the topic and gave all details I have
 In summary: there is a big chance of having a MW/Grin workshop+hackaton in Istanbul
 
 __anonymous__ : The way I see it, we can only benefit from a hackaton. Not only for the actual output in code and exploration of topics, but also to introduce a wider group of capable crypto researchers to Grin and MW. They might become future developers.
-I think it is best to offer a list of a few topics they can chose to work on based on their interest and background. Also they are free to make suggestions for topics of their own
-
+I think it is best to offer a list of a few topics they can chose to work on based on their interest and background. Also they are free to make suggestions for topics of their own.
 
 👍 cekickafa, dtavarez, defistaker
 
@@ -114,11 +113,11 @@ __dtavarez__ :
 
 Did he receive it already?
 
-__cekickafa__ : Yes, he dİd.
+__cekickafa__ : Yes, he did.
 
 __dtavarez__ : Is his miner running?
 
-__cekickafa__ : Not yet, but maybe running witihin days. Will ask him.
+__cekickafa__ : Not yet, but maybe running within days. Will ask him.
 
 __dtavarez__ : How can we verify that?
 
@@ -166,9 +165,10 @@ __dtavarez__ : Better then. Well if there’s no more to comment, we could close
 ## *Action points*
 
 
-* Further discussion about MW/Grin Workshop+Hackaton in Istanbul at forum
+* Further discussion about MW/Grin Workshop+Hackaton in Istanbul at forum post.
 
 * Check testminers via testnet.explorer.
 
 * Funding duty tax bill for testnet miner sent to @mattczt3 agreed.
+
 **Meeting adjourned.**
