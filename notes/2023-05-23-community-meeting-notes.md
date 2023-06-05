@@ -69,7 +69,7 @@ Sometimes node is just losing peers or trying to get new peers every time after 
 
 __anynomous__ : Furthermore, @scilio made PR to review the final phase of the CoinSwap implemntation, so that is great news 🚀
 
-🚀 scilio,anonymous, l33d4n, cekickafa, johndaviews,ardocrat, defistaker
+🚀 scilio,anonymous, l33d4n, cekickafa, johndavies,ardocrat, defistaker
 
 __ardocrat__ :
 
