@@ -13,6 +13,7 @@ A chronological list of decisions made by the Community Council, with references
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
+June 06| [Agenda](https://github.com/grincc/agenda/issues/89)| [Notes](notes/2023-06-06-community-meeting-notes.md) | GrinCC members role definition, Discussion about adding new members or removing members from GrinCC, GrinWallet and community miner farm reporting * |
 May 23| [Agenda](https://github.com/grincc/agenda/issues/88)| [Notes](notes/2023-05-23-community-meeting-notes.md) | GK @cobragrin Funding request May-Aug 2023 voted in favor, Grant GrinCC github access to GK, Update GrinCC duty phrases and feedback on forum about improving governance and spending guidelines * |
 May 09| [Agenda](https://github.com/grincc/agenda/issues/87)| [Notes](notes/2023-05-09-community-meeting-notes.md) | *GK @satoshocrat missing tasks refund announcement*, *Funding request alternative payment methods & proposal of bounties*,* How to check and Review of funding requests deliverables. * |
 Apr 25| [Agenda](https://github.com/grincc/agenda/issues/86)| [Notes](notes/2023-04-25-community-meeting-notes.md) | *GK @satoshocrat missing tasks*, *Grin.mw site improvements*, Progress tracking of funded requests regularly basis by GK & additional tasks, *Funding payment Order scheme*. |
