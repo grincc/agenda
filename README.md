@@ -13,7 +13,10 @@ A chronological list of decisions made by the Community Council, with references
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
-June 20| [Agenda](https://github.com/grincc/agenda/issues/92)| [Notes](notes/2023-06-20-community-meeting-notes.md) | Bounty proposals with ebenfit and costs, Discussion about PIBD, Bounty for an opensource HD Wallet  * |
+Aug 01| [Agenda](https://github.com/grincc/agenda/issues/98)| [Notes](notes/2023-08-01-community-meeting-notes.md) | GrinCC finance repo reviewed, Mining farm hardwares to be secured asap, Drafting process of electing new CC members decided. Bounty for GPU Grin miner is hold on phase. For better governance transparency, Telegram channels opened.|
+July 18| [Agenda](https://github.com/grincc/agenda/issues/96)| [Notes](notes/2023-07-18-community-meeting-notes.md) | Meeting Postponed   |
+July 04| [Agenda](https://github.com/grincc/agenda/issues/94)| [Notes](notes/2023-07-04-community-meeting-notes.md) | Grin community farm discussion, Discussion about process of electing new CC members *> |
+June 20| [Agenda](https://github.com/grincc/agenda/issues/92)| [Notes](notes/2023-06-20-community-meeting-notes.md) | Bounty proposals with benefit and costs, Discussion about PIBD, Bounty for an opensource HD Wallet  * |
 June 06| [Agenda](https://github.com/grincc/agenda/issues/89)| [Notes](notes/2023-06-06-community-meeting-notes.md) | GrinCC members role definition, Discussion about adding new members or removing members from GrinCC, GrinWallet and community miner farm reporting * |
 May 23| [Agenda](https://github.com/grincc/agenda/issues/88)| [Notes](notes/2023-05-23-community-meeting-notes.md) | GK @cobragrin Funding request May-Aug 2023 voted in favor, Grant GrinCC github access to GK, Update GrinCC duty phrases and feedback on forum about improving governance and spending guidelines * |
 May 09| [Agenda](https://github.com/grincc/agenda/issues/87)| [Notes](notes/2023-05-09-community-meeting-notes.md) | *GK @satoshocrat missing tasks refund announcement*, *Funding request alternative payment methods & proposal of bounties*,* How to check and Review of funding requests deliverables. * |
