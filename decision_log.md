@@ -7,7 +7,23 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
-34 | 2022/12/20| _Python wrapper bounty_ UNLOCKED, @nicolasflamel volunteered for bounty, feedback is expected from @renzokuken. **, *Request for @dtavarez** voted, deliverables defined as Grin++ CLI & API and Documentation, *Request for funding @cekickafa** voted, tasks defined as drafting and tracking financials & reports and newsletter, *Task Meeting notes** assigned to @satoshocrat, *Request for@Mattcz3** test miner tax bill costs to be paid |  [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-12-20-community-meeting-notes.md)
+51| 2023/08/01| Finalize format for electing/ appointing new CC members. Review Grincc/finance repo. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-08-01-council-meeting-notes.md) |
+50| 2023/07/18| Draft document for for electing/ appointing new CC members. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-07-18-council-meeting-notes.md) |
+49| 2023/07/04| Get GrinCC wallet tx info, Check miner farm project. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-07-04-council-meeting-notes.md) |
+48| 2023/06/20| Begin Testing PIBD, Introduce Bounty funding options. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-06-20-council-meeting-notes.md) |
+47| 2023/06/06| Open forum post about adding new CC members or removing existing CC members options. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-06-06-council-meeting-notes.md) |
+46| 2023/05/23| Granting GK access to hub,docs,agenda PR. GK cekickafa funding request accepted for May-AUG 2023. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-05-23-council-meeting-notes.md) |
+45 | 2023/05/09| Request refund from @satoshocrat due to missing funded works.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-05-09-council-meeting-notes.md) |
+44| 2023/04/25| Upgrade Grincc.mw site with social links, Call for @satoshocrat due to missing funded works.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-04-25-council-meeting-notes.md) |
+43| 2023/04/11| Grin++ @davidtavarez progress to be reviewed.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-04-11-council-meeting-notes.md) |
+42| 2023/03/28| No decision.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-03-28-council-meeting-notes.md) |
+41| 2023/03/14| Finalize Meme contest.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-03-14-council-meeting-notes.md) |
+40 | 2023/02/28| No decision  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-02-28-council-meeting-notes.md) |
+39 | 2023/02/14| No decision  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-02-14-council-meeting-notes.md) |
+38 | 2023/01/31| Put CC fund display at Grincc.mw, Pay additional bounty difference to @nicolasflamel1. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-01-31-council-meeting-notes.md) |
+37 | 2023/01/17| Python Wrapper bounty payment voted to be paid nicolasflamel1.| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-01-17-council-meeting-notes.md) |
+36 | 2023/01/03| Python Wrapper bounty has been unlocked and give to nicolasflamel1.| [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-01-03-council-meeting-notes.md) |
+35 | 2022/12/20| _Python wrapper bounty_ UNLOCKED, @nicolasflamel volunteered for bounty, feedback is expected from @renzokuken. **, *Request for @dtavarez** voted, deliverables defined as Grin++ CLI & API and Documentation, *Request for funding @cekickafa** voted, tasks defined as drafting and tracking financials & reports and newsletter, *Task Meeting notes** assigned to @satoshocrat, *Request for@Mattcz3** test miner tax bill costs to be paid |  [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-12-20-community-meeting-notes.md)
 34 | 2022/12/06|  *GRINCC dissolving and returning funds to OC offer *Voted **against**.  Allowing GRINCC github access to groundskeepers for improving management accepted. Payment period defined to 48 hours after funding request approval. Mining farm project management will be discussed within GrinCC. Payment calculating and drafting payment transactions is assigned to groundskeeper. Progress of Python wrapper bounty to be tracked.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-12-06-community-meeting-notes.md)
 33 | 2022/11/22| Payment tracking duty added to groundskeeper duty, To do List and tracking accepted for better management, Voting for GRINCC pause-dissolving vote postponed until next meeting, Vote payment request about g1 asic shipping costs.    | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-11-22-community-meeting-notes.md) |
 32 | 2022/11/08| Run grin testnet and testnet explorer,Fund duty tax bill for testnet miner sent to @mattczt3.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2022-11-08-community-meeting-notes.md) |
@@ -34,7 +50,7 @@ ID | Date | Decision | Reference |
 11 | 2021/12/21| Approve funding @newjack777 (Dec-Feb21/22) | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2021-12-21-council-meeting-notes.md) |
 10 | 2021/07/12| Approve inflation bug bounty | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2021-12-07-council-meeting-notes.md) |
 9 | 2021/10/12| Approve funding @dtavarez (Nov-Jan21/22) | [Meeting note](https://github.com/grincc/agenda/blob/main/notes/2021-10-12-council-meeting-notes.md) |
-8 | 2021/09/23 | Approve to buy .5BTC worth of $GRN | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2021-09-23-council-meeting-notes.md) |
+8 | 2021/09/23 | Approve to buy 0.5BTC worth of $GRN | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2021-09-23-council-meeting-notes.md) |
 7 | 2021/08/31 | 10% paid in Grn on funding request  |[Meeting note](https://github.com/grincc/agenda/blob/main/notes/2021-08-31-council-meeting-notes.md) |
 6 | 2021/08/31 | Approve @scilio CoinSwap by milestone development | [Meeting note](https://github.com/grincc/agenda/blob/main/notes/2021-08-31-council-meeting-notes.md) |
 5 | 2021/08/31 | Approve funding @newjack777 (Sept-Nov.21) | [Meeting note](https://github.com/grincc/agenda/blob/main/notes/2021-08-31-council-meeting-notes.md) |
