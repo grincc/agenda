@@ -7,7 +7,7 @@ Grin Community Council is gathered every 1st and 3th Tuesday of the month with a
 ## Decision log
 A chronological list of decisions made by the Community Council, with references. Available [here](decision_log.md).
 
-### 2022
+### 2023
 <details open>
 <summary>Expand/collapse list of notes</summary>
 
@@ -21,14 +21,32 @@ June 06| [Agenda](https://github.com/grincc/agenda/issues/89)| [Notes](notes/202
 May 23| [Agenda](https://github.com/grincc/agenda/issues/88)| [Notes](notes/2023-05-23-community-meeting-notes.md) | GK @cobragrin Funding request May-Aug 2023 voted in favor, Grant GrinCC github access to GK, Update GrinCC duty phrases and feedback on forum about improving governance and spending guidelines * |
 May 09| [Agenda](https://github.com/grincc/agenda/issues/87)| [Notes](notes/2023-05-09-community-meeting-notes.md) | *GK @satoshocrat missing tasks refund announcement*, *Funding request alternative payment methods & proposal of bounties*,* How to check and Review of funding requests deliverables. * |
 Apr 25| [Agenda](https://github.com/grincc/agenda/issues/86)| [Notes](notes/2023-04-25-community-meeting-notes.md) | *GK @satoshocrat missing tasks*, *Grin.mw site improvements*, Progress tracking of funded requests regularly basis by GK & additional tasks, *Funding payment Order scheme*. |
-December 20| [Agenda](https://github.com/grincc/agenda/issues/75)| [Notes](notes/2022-12-20-community-meeting-notes.md) | *Python cffi secp256k1-zkp wrapper bounty*, *Request for funding @dtavarez*, Request for funding @cekickafa, *Request for funding- @satoshocrat*, Technical; grin/wallet owner API issue. |
-December 06| [Agenda](https://github.com/grincc/agenda/issues/73)| [Notes](notes/2022-12-06-community-meeting-notes.md) |*Vote for Dissolving GrinCC and return funds to OC, **Test miners electricity costs requests, **Unlock the python CFFI secp256k1-zkp wrapper and Ledger hardware wallet support bounties. *Mining farm management discussion.Procedural improvements, expectations, habits,personal responsibility as part of the CC. |
-November 22| [Agenda](https://github.com/grincc/agenda/issues/72)| [Notes](notes/2022-11-22-community-meeting-notes.md) |*Grin CC should be paused until further notice and funds must be returned, **Proposal to add a payment management roll to the Groundskeeper duties, **Unlock the python CFFI secp256k1-zkp wrapper and Ledger hardware wallet support bounties. |
-November 08| [Agenda](https://github.com/grincc/agenda/issues/71)| [Notes](notes/2022-11-08-community-meeting-notes.md) |MW/Grin Workshop+Hackaton in Istanbul, **Request for funding duty tax bill for testnet miner sent to @mattczt3. |
-October 25| [Agenda](https://github.com/grincc/agenda/issues/70)| [Notes](notes/2022-10-25-community-meeting-notes.md) |Grin v5.2.0-alpha.2 Release & Things to test. |
-October 11| [Agenda](https://github.com/grincc/agenda/issues/69)| [Notes](notes/2022-10-11-community-meeting-notes.md) |Request funding @satoshocrat assisting groundkeeper  Oct -December 15 2022, **Test Miner donations & locations. |
-September 27| [Agenda](https://github.com/grincc/agenda/issues/68)| [Notes](notes/2022-09-27-community-meeting-notes.md) |Request funding @cekickafa September -December 15 2022, **Test miner issue & Request fumding for @mattczt . |
-September 13| [Agenda](https://github.com/grincc/agenda/issues/66)| [Notes](notes/2022-09-13-community-meeting-notes.md) | Bounty for writing a CFFI wrapper of secp256k1-zkp fork,**Community Biweekly meeting Schedule, **Retroactive Grants like idea . |
+Apr 11| [Agenda](https://github.com/grincc/agenda/issues/85)| [Notes](notes/2023-04-11-community-meeting-notes.md) | Developer updates, Yeastplume Rust code update, Grin++ @Davidtavarez updates. |
+Mar 28| [Agenda](https://github.com/grincc/agenda/issues/84)| [Notes](notes/2023-03-28-community-meeting-notes.md) | Meeting cancelled due to lack of participation. |
+Mar 14| [Agenda](https://github.com/grincc/agenda/issues/83)| [Notes](notes/2023-03-14-community-meeting-notes.md) | Kucoin Exchange integration status, Meme Contest. |
+Feb 28| [Agenda](https://github.com/grincc/agenda/issues/82)| [Notes](notes/2023-02-28-community-meeting-notes.md) | Meeting cancelled due to lack of participants. |
+Feb 14| [Agenda](https://github.com/grincc/agenda/issues/81)| [Notes](notes/2023-02-14-community-meeting-notes.md) | Meeting cancelled due to lack of participants. |
+Jan 31| [Agenda](https://github.com/grincc/agenda/issues/80)| [Notes](notes/2023-01-31-community-meeting-notes.md) | Minimalism at spending CC funds, Zk python wrapper bounty, Improving CC site. |
+Jan 17| [Agenda](https://github.com/grincc/agenda/issues/78)| [Notes](notes/2023-01-17-community-meeting-notes.md) | Meme Contest, Zk python wrapper bounty. |
+Jan 03| [Agenda](https://github.com/grincc/agenda/issues/77)| [Notes](notes/2023-01-03-community-meeting-notes.md) | Test miners, Meme Contest, Zk python wrapper bounty. |
+
+
+
+
+### 2022
+<details open>
+<summary>Expand/collapse list of notes</summary>
+
+Date | Agenda | Notes  | Tl:dr |
+|:---|:---|---|:---|
+Dec 20| [Agenda](https://github.com/grincc/agenda/issues/75)| [Notes](notes/2022-12-20-community-meeting-notes.md) | *Python cffi secp256k1-zkp wrapper bounty*, *Request for funding @dtavarez*, Request for funding @cekickafa, *Request for funding- @satoshocrat*, Technical; grin/wallet owner API issue. |
+Dec 06| [Agenda](https://github.com/grincc/agenda/issues/73)| [Notes](notes/2022-12-06-community-meeting-notes.md) |*Vote for Dissolving GrinCC and return funds to OC, **Test miners electricity costs requests, **Unlock the python CFFI secp256k1-zkp wrapper and Ledger hardware wallet support bounties. *Mining farm management discussion.Procedural improvements, expectations, habits,personal responsibility as part of the CC. |
+Nov 22| [Agenda](https://github.com/grincc/agenda/issues/72)| [Notes](notes/2022-11-22-community-meeting-notes.md) |*Grin CC should be paused until further notice and funds must be returned, **Proposal to add a payment management roll to the Groundskeeper duties, **Unlock the python CFFI secp256k1-zkp wrapper and Ledger hardware wallet support bounties. |
+Nov 08| [Agenda](https://github.com/grincc/agenda/issues/71)| [Notes](notes/2022-11-08-community-meeting-notes.md) |MW/Grin Workshop+Hackaton in Istanbul, **Request for funding duty tax bill for testnet miner sent to @mattczt3. |
+Oct 25| [Agenda](https://github.com/grincc/agenda/issues/70)| [Notes](notes/2022-10-25-community-meeting-notes.md) |Grin v5.2.0-alpha.2 Release & Things to test. |
+Oct 11| [Agenda](https://github.com/grincc/agenda/issues/69)| [Notes](notes/2022-10-11-community-meeting-notes.md) |Request funding @satoshocrat assisting groundkeeper  Oct -December 15 2022, **Test Miner donations & locations. |
+Sept 27| [Agenda](https://github.com/grincc/agenda/issues/68)| [Notes](notes/2022-09-27-community-meeting-notes.md) |Request funding @cekickafa September -December 15 2022, **Test miner issue & Request fumding for @mattczt . |
+Sept 13| [Agenda](https://github.com/grincc/agenda/issues/66)| [Notes](notes/2022-09-13-community-meeting-notes.md) | Bounty for writing a CFFI wrapper of secp256k1-zkp fork,**Community Biweekly meeting Schedule, **Retroactive Grants like idea . |
 August 30| [Agenda](https://github.com/grincc/agenda/issues/65)| [Notes](notes/2022-08-30-community-meeting-notes.md) | Community Counsil Members ''proof of life'' request discussion by @johndavies24 |
 August 16| [Agenda](https://github.com/grincc/agenda/issues/63)| [Notes](notes/2022-08-16-community-meeting-notes.md) | Request funding for David Aug-December 2022, **Community Mining farm Project update,  ** Testing Milestone 2: Next steps. |
 August 02| [Agenda](https://github.com/grincc/agenda/issues/62)| [Notes](notes/2022-08-02-community-meeting-notes.md) | Discussion about Coinswap milestone 2 review & approval to begin work on milestone 3. |
