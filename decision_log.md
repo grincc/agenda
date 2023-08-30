@@ -7,6 +7,8 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+53| 2023/08/29| Announcement of CC election on newsletter. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-08-29-community-meeting-notes.md) |
+52| 2023/08/15| No decision. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-08-15-community-meeting-notes.md) |
 51| 2023/08/01| Finalize format for electing/ appointing new CC members. Review Grincc/finance repo. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-08-01-community-meeting-notes.md) |
 50| 2023/07/18| Draft document for for electing/ appointing new CC members. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-07-18-community-meeting-notes.md) |
 49| 2023/07/04| Get GrinCC wallet tx info, Check miner farm project. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-07-04-communityl-meeting-notes.md) |
