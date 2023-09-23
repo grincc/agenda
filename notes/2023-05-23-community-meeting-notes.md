@@ -209,7 +209,7 @@ I’m wanna add several ideas notes or whatever: can we agreed that’s CC must 
 
 __ardocrat__ : 
 
->__hwgty__ : I’m wanna add several ideas notes or whatever: can we agreed that’s CC must put his efforts to get exchanges or something like that, even from my side time seems like come.
+>__hwgty__ : I  wanna add several ideas notes or whatever: can we agreed that’s CC must put his efforts to get exchanges or something like that, even from my side time seems like come.
 
 p2p exchange is needed indeed, also atomic swaps with btc/xmr, bounties can be created if somebody will start to work on this imo :)
 
