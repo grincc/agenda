@@ -183,7 +183,7 @@ __l33d4n__ :
 
 So what's the plan? someone, maybe the CC members or the GK are planning to contact him to ask? 4-5 months without any update?
 
-__ardocrat__ : ![image2](../imgs/9-12-meeting2.png)
+__ardocrat__ : ![image1](../imgs/9-12-meeting2.png)
 
 __cekickafa__ : Scilio s work depends on delivered work-bounty by the way. He didnt get 3rd final bounty.
 
