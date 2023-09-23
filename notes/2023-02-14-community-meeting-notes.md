@@ -20,7 +20,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 # Short Summary
  
-- Meeting cancelled due to Holiday and lack of participants.
+- Meeting cancelled due to Holiday lack of participants.
 
 
 
