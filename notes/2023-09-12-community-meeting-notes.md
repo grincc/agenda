@@ -143,7 +143,7 @@ __waynegeorge__ : I'm happy to take up a task if there's something I can look in
 
 __ardocrat__ :
 
-![image1](../imgs/9-12-meeting1.png)
+![image1](../imgs/9-12-meeting2.png)
 
 I see @phyro comment about limited capabilities, maybe some extra dev help is needed.
 
@@ -167,8 +167,7 @@ __cekickafa__ :
 Last update from Davidt is June 15. Since there is no update.
 
 __ardocrat__ :
-
-image
+![image2](../imgs/9-12-meeting2.png)
 
 👋 @scilio
 
@@ -183,7 +182,7 @@ __l33d4n__ :
 
 So what's the plan? someone, maybe the CC members or the GK are planning to contact him to ask? 4-5 months without any update?
 
-__ardocrat__ : ![image1](../imgs/9-12-meeting2.png)
+__ardocrat__ : ![image3](../imgs/9-12-meeting1.png)
 
 __cekickafa__ : Scilio s work depends on delivered work-bounty by the way. He didnt get 3rd final bounty.
 
