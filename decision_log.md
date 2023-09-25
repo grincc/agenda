@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+54| 2023/09/12|  GK @cobragrin Sept-Dec 2023 term to be voted, Curennt status of funded tasks to be followed up. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-09-12-community-meeting-notes.md) 
 53| 2023/08/29| Announcement of CC election on newsletter. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-08-29-community-meeting-notes.md) |
 52| 2023/08/15| No decision. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-08-15-community-meeting-notes.md) |
 51| 2023/08/01| Finalize format for electing/ appointing new CC members. Review Grincc/finance repo. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-08-01-community-meeting-notes.md) |
