@@ -13,6 +13,9 @@ A chronological list of decisions made by the Community Council, with references
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
+Oct 24| [Agenda](https://github.com/grincc/agenda/issues/113)| [Notes](notes/2023-10-24-community-meeting-notes.md) | [Grin wishlist ](https://github.com/grincc/hub/blob/main/wishlist.md)  revisited, Mwixnet and GUI wallet testings has been discussed.
+Oct 10| [Agenda](https://github.com/grincc/agenda/issues/111)| [Notes](notes/2023-10-10-community-meeting-notes.md) | Meeting not held due to lack of participants |
+Sept 26| [Agenda](https://github.com/grincc/agenda/issues/106)| [Notes](notes/2023-09-26-community-meeting-notes.md) | Discussion about Mwixnet last status and on going process of integration to GUI wallet mentioned by developer @yeastplume. Grin++ update, GrinCC elections. |
 Sept 12| [Agenda](https://github.com/grincc/agenda/issues/105)| [Notes](notes/2023-09-12-community-meeting-notes.md) | Discussion about current status of Grin++ upgrade, Grincc Election candidates, Mwixnet current status, GK @cobragrin Sept-Dec 2023 term. |
 Aug 29| [Agenda](https://github.com/grincc/agenda/issues/101)| [Notes](notes/2023-08-29-community-meeting-notes.md) | Open discussion about miner farm, Grincc Elections, Grin++ wallet and Grin core wallet. |
 Aug 15| [Agenda](https://github.com/grincc/agenda/issues/99)| [Notes](notes/2023-08-15-community-meeting-notes.md) | Discussion of CC miner hardware; distribute miners or renegotiate a new deal.  Review of funded tasks .|
