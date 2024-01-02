@@ -13,6 +13,10 @@ A chronological list of decisions made by the Community Council, with references
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
+Dec 19| [Agenda](https://github.com/grincc/agenda/issues/119)| [Notes](notes/2023-12-19-community-meeting-notes.md) |[Unconifmed transactions](https://forum.grin.mw/t/lost-grin-coins-while-sending-to-tradeogre/10802) problem. |
+Dec 05| [Agenda](https://github.com/grincc/agenda/issues/118)| [Notes](notes/2023-12-05-community-meeting-notes.md) | Gui wallet & node development update from  developer @yeastplume. |
+Nov 21| [Agenda](https://github.com/grincc/agenda/issues/117)| [Notes](notes/2023-11-21-community-meeting-notes.md) | [Mwixnet testing ](https://forum.grin.mw/t/mwixnet-testing-by-community/10792) No actual test done by except @ardocrat fixed libs to update. |
+Nov 07| [Agenda](https://github.com/grincc/agenda/issues/115)| [Notes](notes/2023-11-07-community-meeting-notes.md) | [Grin wishlist ](https://github.com/grincc/hub/blob/main/wishlist.md) time horizon and development projections. Atomic swaps development @grinreaper volunteered, discussion to be carried on #dev channel keybase.
 Oct 24| [Agenda](https://github.com/grincc/agenda/issues/113)| [Notes](notes/2023-10-24-community-meeting-notes.md) | [Grin wishlist ](https://github.com/grincc/hub/blob/main/wishlist.md)  revisited, Mwixnet and GUI wallet testings has been discussed.
 Oct 10| [Agenda](https://github.com/grincc/agenda/issues/111)| [Notes](notes/2023-10-10-community-meeting-notes.md) | Meeting not held due to lack of participants |
 Sept 26| [Agenda](https://github.com/grincc/agenda/issues/106)| [Notes](notes/2023-09-26-community-meeting-notes.md) | Discussion about Mwixnet last status and on going process of integration to GUI wallet mentioned by developer @yeastplume. Grin++ update, GrinCC elections. |
