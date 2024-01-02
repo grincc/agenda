@@ -7,6 +7,13 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+61| 2023/12/19| No decision.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-12-19-community-meeting-notes.md)
+60| 2023/12/05| No decision.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-12-05-community-meeting-notes.md) 
+59| 2023/11/21| No decision.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-11-21-community-meeting-notes.md) 
+58| 2023/11/07| Mwixnet to be tested.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-11-07-community-meeting-notes.md) 
+57| 2023/10/24|   Grin wishlist 2020 revision.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-10-24-community-meeting-notes.md) 
+56| 2023/10/10|  No decision | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-10-10-community-meeting-notes.md) 
+55| 2023/09/26|  No decision | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-09-26-community-meeting-notes.md) 
 54| 2023/09/12|  GK @cobragrin Sept-Dec 2023 term to be voted, Curennt status of funded tasks to be followed up. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-09-12-community-meeting-notes.md) 
 53| 2023/08/29| Announcement of CC election on newsletter. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-08-29-community-meeting-notes.md) |
 52| 2023/08/15| No decision. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-08-15-community-meeting-notes.md) |

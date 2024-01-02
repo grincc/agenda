@@ -36,6 +36,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 __anynomous__ : 
 
+## 1) Grin Wishlist
 
 I added a status update for each item that I had any knowledge of, perhaps @yeastplume can fill in some of the blanks or correct me if I am wrong anywhere:
 
@@ -105,20 +106,20 @@ I do not think we need to discuss today much in detail. What supprised me a litt
 
 __cekickafa__ : Sorry, critical must have is in order or it is randomly ?
 
-__yeastplume__ : well, PIBD is pretty huge and important and that was done. safe cancel is part of the ongoing experimental contracts work
+__yeastplume__ : well, PIBD is pretty huge and important and that was done. safe cancel is part of the ongoing experimental contracts work.
 
 __anynomous__ : Those are the most important ones for me, only pity multisig is not yet in the cards, but in time.
 One more question, is safe-cancel now implemented, or will it be in the new GUI wallet?
 
-__yeastplume__ : there's a lot going on at the moment that isn't reflected in the list either. I think it would be best to have this posted somewhere for comments so we can take time to look at it and update
-it's part of the contracts work, experimental and not 'done'. All of the experimental work is going into the gui wallet
+__yeastplume__ : there's a lot going on at the moment that isn't reflected in the list either. I think it would be best to have this posted somewhere for comments so we can take time to look at it and update.
+it's part of the contracts work, experimental and not 'done'. All of the experimental work is going into the gui wallet.
 
 👍 anonymous
 
 __cekickafa__ : i mean safe cancel should be iplemented before multisig or vice versa ?
 
 __anynomous__ : Sure, we will add it somewhere on github for everyone to update.
-I will add the version with my updates here, anyone can edit to make more changes/updates
+I will add the version with my updates here, anyone can edit to make more changes/updates.
 
 👍 cekickafa
 
@@ -130,7 +131,7 @@ __yeastplume__ : It's going well, with contracts and early proofs and support fo
 
 __anynomous__ : Ok, so it is ready for people to try out?
 
-__yeastplume__ : I'm trying to get all of the new features there and visible in the one place
+__yeastplume__ : I'm trying to get all of the new features there and visible in the one place.
 
 __anynomous__ : With testnet or do you think it is safe to use with mainnet already?
 
@@ -217,7 +218,7 @@ __cekickafa__ :
 
 i got many DM s about this. Users trying to cancel, becuz they think tx not happened and there becomes a conflict. Is that the same issue ?
 
-__ardocrat__ : Possibly
+__ardocrat__ : Possibly.
 
 👍 cekickafa
 
@@ -247,7 +248,7 @@ It is, I had the exact same issue, even contact David about it today by coincide
 
 👍 cekickafa
 
-__cekickafa__ : Mulitsig for coming years ? why, it was on the critical top list since 2020
+__cekickafa__ : Mulitsig for coming years ? why, it was on the critical top list since 2020.
 
 __ardocrat__ : 
 
@@ -311,7 +312,7 @@ __yeastplume__ : you can't develop software with temporary hired teams. you need
 
 __anynomous__ : Ok, but since someone is offering to work on it, what would in your opinion be a good solution. Offer them a position, perhaps first on tryout?
 
-__yeastplume__ : people just do enough to cover the bounty requirements and little else, leaving the heavy lifting on us, and me in particular at the moment
+__yeastplume__ : people just do enough to cover the bounty requirements and little else, leaving the heavy lifting on us, and me in particular at the moment.
 
 __ardocrat__ : 
 
@@ -321,7 +322,7 @@ Not needed to hire, with bounty payment afterwards should be OK, as at any open 
 
 __anynomous__ : That makes bounties not very scalable indeed, if in the end implementing it take to much time.
 
-__yeastplume__ : Again, I'm not in favour of if and I'm not agreeing to review any code produced by one. If you issue a bounty for something, you need to have a plan to review it that's not assuming we're going to do it then maintain it afterwards
+__yeastplume__ : Again, I'm not in favour of if and I'm not agreeing to review any code produced by one. If you issue a bounty for something, you need to have a plan to review it that's not assuming we're going to do it then maintain it afterwards.
 
 👍 anonymous,vegyclol
 
@@ -334,7 +335,7 @@ __phyro__ : I can't recall correctly, but if my memory serves me right, it's not
 __anynomous__ : If I remember correctly, gene did not implement all feedback, which was a major rewrite and tackling a couple of issues.
 
 __phyro__ : I also agree with yeast, bounties put a lot of review and maintenance responsibility on everyone that may not be well thought out
-I think tromp had some questions that were not addressed
+I think tromp had some questions that were not addressed.
 
 __anynomous__ : Ok, so reopening is pointless then. I mean the CC is unfortunately not technically capable of reviewing any core tech.
 
@@ -416,7 +417,7 @@ __yeastplume__ :
 
 >__cekickafa__ : Discussion about 2020 wishlist, we are at 2024 almost.
 
-4 years later and we're still here with active development and people who care about the thing? I think that's an acheivement, not a problem
+4 years later and we're still here with active development and people who care about the thing? I think that's an acheivement, not a problem.
 
 
 👍 phyro, cekickafa, jdavies
@@ -458,7 +459,7 @@ __ardocrat__ :
 
 >__anynomous__ : It should be. The problem is that to get those people is hard since they need to gradually get to know the code basis by doing error reporting, small bug fixes etc. Build a reputation by doing and not by first asking money.
 
-Grin is money, my personal motivation is to make it better, so everyone can use without problems
+Grin is money, my personal motivation is to make it better, so everyone can use without problems.
 
 👍 anynomous
 
@@ -472,7 +473,7 @@ bold statement is our problem. We dont have enough man, and it is a problem to b
 
 __phyro__ :
 
->__yeastplume__ : I've tried several times with mwmixnet, done wallet integration code which is ready to undergo testing. I've asked the community to look at it and perhaps try running servers so we can have a closer look at it
+>__yeastplume__ : I've tried several times with mwmixnet, done wallet integration code which is ready to undergo testing. I've asked the community to look at it and perhaps try running servers so we can have a closer look at it.
 
 testing things out is a task that doesn't take long to onboard. Testing mwixnet features is a good easy task for any volunteers :)
 
@@ -487,7 +488,7 @@ __ardocrat__ :
 
 >__phyro__ : testing things out is a task that doesn't take long to onboard. Testing mwixnet features is a good easy task for any volunteers :)
 
-Let's build testing plan and will make an announcement like we did with pibd @cekickafa
+Let's build testing plan and will make an announcement like we did with pibd. @cekickafa
 
 👍 anynomous, cekickafa
 
@@ -496,7 +497,7 @@ __yeastplume__ : yes, that's definitely something I think the CC can do that wou
 __anynomous__ : That worked reasonably well for PIDB, so we can do the same for GUI wallet and for Mixnet. Perhaps, only one at a time.
 
 __phyro__ : Yeah that's good. A simple individual testing would also help as a start as we don't really know the state of the thing at the moment
-at least I don't know it
+at least I don't know it.
 
 __anynomous__ : Lets start with the GUI testing, I think it simpler than setting up a Mixnet server.
 
@@ -505,7 +506,7 @@ that's contracts, early payment proofs and mwmixnet sending?
 
 __anynomous__ : Ok, so what would you like to have tested frist. In any case, you can control it simply by what you post on the forum. Whatever you post, some people will jump on it.
 
-__yeastplume__ : so having a mixnet first would help that
+__yeastplume__ : so having a mixnet first would help that.
 
 👍 anynomous 
 

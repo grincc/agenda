@@ -47,5 +47,7 @@
  |18 July 2023 | Discuss and create predefined process ( that gets documented in the CC repo) for electing/ appointing new CC members moving forward. | Election guidelines docs drafted, defined. |[notes](https://github.com/cekickafa/agenda/blob/main/notes/2023-07-18-community-meeting-notes.md)   | ✅ 
 01 Aug 2023 | Announcement for Grincc candidates. | Announcement call posted on Grin Forum.  | [notes](https://github.com/cekickafa/agenda/blob/main/notes/2023-08-01-community-meeting-notes.md)   | ✅ 
 15 Aug 2023 | Action in electing new CC members. | Candidates called for intro post on Grin Forum.  | [notes](https://github.com/cekickafa/agenda/blob/main/notes/2023-08-15-community-meeting-notes.md)   |✅ 
-29 Aug 2023 | Promote GrinCC election on newsletter. |   | [notes](https://github.com/cekickafa/agenda/blob/main/notes/2023-08-29-community-meeting-notes.md)   | ✅ 
-29 Aug 2023 | Follow up of currenct funded task Grin++ & Mwixnet. |   | [notes](https://github.com/cekickafa/agenda/blob/main/notes/2023-08-29-community-meeting-notes.md)   | On going.
+29 Aug 2023 | Promote GrinCC election on newsletter. | Promoted via  Grin channels  | [notes](https://github.com/cekickafa/agenda/blob/main/notes/2023-08-29-community-meeting-notes.md)   | ✅ 
+12 Sept 2023 | Follow up of currenct funded task Grin++ & Mwixnet. | Contacted with developers and reminded the tasks   | [notes](https://github.com/cekickafa/agenda/blob/main/notes/2023-08-29-community-meeting-notes.md) |    ✅ 
+24 October   | Mwixnet testing by community |[Mwixnet Tests](https://forum.grin.mw/t/mwixnet-testing-by-community/10792) |   | On going
+
