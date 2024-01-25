@@ -7,13 +7,28 @@ Grin Community Council is gathered every 1st and 3th Tuesday of the month with a
 ## Decision log
 A chronological list of decisions made by the Community Council, with references. Available [here](decision_log.md).
 
+
+
+### 2024
+<details open>
+<summary>Expand/collapse list of notes</summary>
+
+Date | Agenda | Notes  | Tl:dr |
+|:---|:---|---|:---|
+Jan 02| [Agenda](https://github.com/grincc/agenda/issues/120)| [Notes](notes/2024-01-02-community-meeting-notes.md) |[Future of ironbelly wallet ](https://forum.grin.mw/t/future-of-ironbelly/10859) |
+Jan 16| [Agenda](https://github.com/grincc/agenda/issues/122)| [Notes](notes/2024-01-16-community-meeting-notes.md) |[Grinccnodes site  ](https://nodes.grincc.mw/) update and ownership status. |
+
+
+
+
+
 ### 2023
 <details open>
 <summary>Expand/collapse list of notes</summary>
 
 Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
-Dec 19| [Agenda](https://github.com/grincc/agenda/issues/119)| [Notes](notes/2023-12-19-community-meeting-notes.md) |[Unconifmed transactions](https://forum.grin.mw/t/lost-grin-coins-while-sending-to-tradeogre/10802) problem. |
+Dec 19| [Agenda](https://github.com/grincc/agenda/issues/119)| [Notes](notes/2023-12-19-community-meeting-notes.md) |[Unconfirmed transactions](https://forum.grin.mw/t/lost-grin-coins-while-sending-to-tradeogre/10802) problem. |
 Dec 05| [Agenda](https://github.com/grincc/agenda/issues/118)| [Notes](notes/2023-12-05-community-meeting-notes.md) | Gui wallet & node development update from  developer @yeastplume. |
 Nov 21| [Agenda](https://github.com/grincc/agenda/issues/117)| [Notes](notes/2023-11-21-community-meeting-notes.md) | [Mwixnet testing ](https://forum.grin.mw/t/mwixnet-testing-by-community/10792) No actual test done by except @ardocrat fixed libs to update. |
 Nov 07| [Agenda](https://github.com/grincc/agenda/issues/115)| [Notes](notes/2023-11-07-community-meeting-notes.md) | [Grin wishlist ](https://github.com/grincc/hub/blob/main/wishlist.md) time horizon and development projections. Atomic swaps development @grinreaper volunteered, discussion to be carried on #dev channel keybase.

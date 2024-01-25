@@ -50,4 +50,7 @@
 29 Aug 2023 | Promote GrinCC election on newsletter. | Promoted via  Grin channels  | [notes](https://github.com/cekickafa/agenda/blob/main/notes/2023-08-29-community-meeting-notes.md)   | ✅ 
 12 Sept 2023 | Follow up of currenct funded task Grin++ & Mwixnet. | Contacted with developers and reminded the tasks   | [notes](https://github.com/cekickafa/agenda/blob/main/notes/2023-08-29-community-meeting-notes.md) |    ✅ 
 24 October   | Mwixnet testing by community |[Mwixnet Tests](https://forum.grin.mw/t/mwixnet-testing-by-community/10792) |   | On going
-
+07 November   | Community wishlist updates |[Grin wishlist 2024](https://github.com/grincc/hub/blob/main/wishlist.md) |   | On going
+07 November   | Unconfirmed tx problems/ cancelled transactions |[Unconfirmed tx issue ](https://github.com/mimblewimble/grin/issues/2880) | [Cancelled tx problems](https://forum.grin.mw/t/lost-grin-coins-while-sending-to-tradeogre/10802/22)  | On going
+21 November   | Grin stackexchange revive |[Stackexchange proposal](https://forum.grin.mw/t/rejected-grin-stack-exchange-area-51-community/9406/46) |   | On going
+02 January   |Future of ironbelly wallet  |[Ironbelly wallet status ](https://forum.grin.mw/t/future-of-ironbelly/10859) |   | On going
