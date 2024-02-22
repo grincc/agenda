@@ -54,3 +54,5 @@
 07 November   | Unconfirmed tx problems/ cancelled transactions |[Unconfirmed tx issue ](https://github.com/mimblewimble/grin/issues/2880) | [Cancelled tx problems](https://forum.grin.mw/t/lost-grin-coins-while-sending-to-tradeogre/10802/22)  | On going
 21 November   | Grin stackexchange revive |[Stackexchange proposal](https://forum.grin.mw/t/rejected-grin-stack-exchange-area-51-community/9406/46) |   | On going
 02 January   |Future of ironbelly wallet  |[Ironbelly wallet status ](https://forum.grin.mw/t/future-of-ironbelly/10859) |   | On going
+12 January   |Community testing GUI wallet  |[Gui wallet first builds ](https://github.com/mimblewimble/grin-gui/issues?q=is%3Aopen+is%3Aissue) |   | On going
+30 January   |Supporting Grinventions mimblewimble-py implementation  |[MimbleWimble Python ](https://github.com/grinventions/mimblewimble-py) |   | On going
