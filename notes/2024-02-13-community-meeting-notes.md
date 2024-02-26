@@ -17,7 +17,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 # Short Summary
  
  
-- Open discussion about ıronbelly mobile wallet. New design ideas from @waynegoerge has been talked.
+- Open discussion about ironbelly mobile wallet. New design ideas from @waynegoerge has been talked.
 - Grinvention/mimblewimble.py implementation funding alternatives has been discussed.
 
 
