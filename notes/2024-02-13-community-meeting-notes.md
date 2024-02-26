@@ -1,4 +1,4 @@
-# Community Meeting Notes January 30, 2024
+# Community Meeting Notes February 13, 2024
 
 Community Council (CC) meeting held @ 14:30 UTC in grincoin#general channel on Keybase. Meeting lasted 45 min.
 
