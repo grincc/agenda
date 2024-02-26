@@ -17,8 +17,8 @@ Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
 Jan 02| [Agenda](https://github.com/grincc/agenda/issues/120)| [Notes](notes/2024-01-02-community-meeting-notes.md) |[Future of ironbelly wallet ](https://forum.grin.mw/t/future-of-ironbelly/10859) |
 Jan 16| [Agenda](https://github.com/grincc/agenda/issues/122)| [Notes](notes/2024-01-16-community-meeting-notes.md) |[Grinccnodes site  ](https://nodes.grincc.mw/) update and ownership status. |
-
-
+Jan 30| [Agenda](https://github.com/grincc/agenda/issues/123)| [Notes](notes/2024-01-30-community-meeting-notes.md) |[Grinventions funding support](https://github.com/grinventions/),  Bip39 passphrase functionality in grin-wallet. |
+Feb 13| [Agenda](https://github.com/grincc/agenda/issues/125)| [Notes](notes/2024-02-13-community-meeting-notes.md) |[mimblewimble-py implementation funding](https://github.com/grinventions/), Ironbelly mobile wallet improving ideas. |
 
 
 

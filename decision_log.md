@@ -7,6 +7,8 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+64| 2024/01/30| Supporting mimblewimble-py implementation.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2024-01-30-community-meeting-notes.md)
+63| 2024/01/16| No decision.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2024-01-16-community-meeting-notes.md)
 62| 2024/01/02| Supporting mobile wallet ironbelly.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2024-01-02-community-meeting-notes.md)
 61| 2023/12/19| No decision.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-12-19-community-meeting-notes.md)
 60| 2023/12/05| No decision.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2023-12-05-community-meeting-notes.md) 
