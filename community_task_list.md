@@ -55,4 +55,6 @@
 21 November   | Grin stackexchange revive |[Stackexchange proposal](https://forum.grin.mw/t/rejected-grin-stack-exchange-area-51-community/9406/46) |   | On going
 02 January   |Future of ironbelly wallet  |[Ironbelly wallet status ](https://forum.grin.mw/t/future-of-ironbelly/10859) |   | On going
 12 January   |Community testing GUI wallet  |[Gui wallet first builds ](https://github.com/mimblewimble/grin-gui/issues?q=is%3Aopen+is%3Aissue) |   | On going
-30 January   |Supporting Grinventions mimblewimble-py implementation  |[MimbleWimble Python ](https://github.com/grinventions/mimblewimble-py) |   | On going
+30 January   |Supporting Grinventions mimblewimble-py implementation  |[Grinventions ](https://github.com/grinventions/mimblewimble-py) |   | ✅ 
+29 February   | Donation Grinventions voting - GK voting  |[MimbleWimble Python ](https://forum.grin.mw/t/should-the-cc-donate-to-grinvention-mimblewimble-py/10942/27)-  [GK cobragrin](https://forum.grin.mw/t/request-for-funding-cobragrin-2024-2025/10949/4) |   | ✅ 
+02 March   |  mimblewimbple-python Wishlist |[MimbleWimble-python Wishlist ](https://github.com/grinventions/mimblewimble-py/labels/wishlist) |   | On going
