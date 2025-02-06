@@ -1,8 +1,8 @@
-# Community Meeting Notes February 13, 2024
+# Community Meeting  February 13, 2024
 
 Community Council (CC) meeting held @ 14:30 UTC in grincoin#general channel on Keybase. Meeting lasted 45 min.
 
-Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact.
+ are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact.
 
 
 
@@ -25,7 +25,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 # Agenda Points & Actions
  
 
-* Last meeting notes here: https://github.com/grincc/agenda/tree/main/notes
+* Last meeting  here: https://github.com/grincc/agenda/tree/main/
 
 * Current meeting [agenda](https://github.com/grincc/agenda/issues/125)
 

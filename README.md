@@ -19,8 +19,30 @@ Jan 02| [Agenda](https://github.com/grincc/agenda/issues/120)| [Notes](notes/202
 Jan 16| [Agenda](https://github.com/grincc/agenda/issues/122)| [Notes](notes/2024-01-16-community-meeting-notes.md) |[Grinccnodes site  ](https://nodes.grincc.mw/) update and ownership status. |
 Jan 30| [Agenda](https://github.com/grincc/agenda/issues/123)| [Notes](notes/2024-01-30-community-meeting-notes.md) |[Grinventions funding support](https://github.com/grinventions/),  Bip39 passphrase functionality in grin-wallet. |
 Feb 13| [Agenda](https://github.com/grincc/agenda/issues/125)| [Notes](notes/2024-02-13-community-meeting-notes.md) |[mimblewimble-py implementation funding](https://github.com/grinventions/), Ironbelly mobile wallet improving ideas. |
-
-
+Feb 27| [Agenda](https://github.com/grincc/agenda/issues/126)| [Notes](notes/2024-02-27-community-meeting-notes.md) | Grinventions funding voting, Groundskeeper funding voted and accepted. |
+March 12| [Agenda](https://github.com/grincc/agenda/issues/130)| [Notes](notes/2024-03-12-community-meeting-notes.md) | Issues with GUI wallet, Grin++ maintenance,bug fixes. |
+March 26| [Agenda](https://github.com/grincc/agenda/issues/131)| [Notes](notes/2024-03-26-community-meeting-notes.md) |  GUI wallet maintenance,bug fixes. |
+Apr 09| [Agenda](https://github.com/grincc/agenda/issues/132)| [Notes](notes/2024-04-09-community-meeting-notes.md) |  GUI wallet updates, Debate about deprecating Tor support in favor of slatepacks and payment contracts,use of memos in slatepacks and potential solutions for exchanges. |
+Apr 23| [Agenda](https://github.com/grincc/agenda/issues/133)| [Notes](notes/2024-04-23-community-meeting-notes.md) | Update on the MWixnet implementation, including its latest pull request with reorg protection, TOR support using Arti, and async/await support.Acknowledgement of the completion of Milestone 3 tasks for MWixnet and a call for approval of payment. |
+May 07| [Agenda](https://github.com/grincc/agenda/issues/134)| [Notes](notes/2024-05-07-community-meeting-notes.md) |  Completion of MWixnet Milestone 3, with pending funding release. |
+May 21| [Agenda](https://github.com/grincc/agenda/issues/135)| [Notes](notes/2024-05-21-community-meeting-notes.md) |  Formal approval of MWixnet Milestone 3, with all required votes received. |
+June 04| [Agenda](https://github.com/grincc/agenda/issues/136)| [Notes](notes/2024-06-04-community-meeting-notes.md) | No topics  |
+June 18| [Agenda](https://github.com/grincc/agenda/issues/137)| [Notes](notes/2024-06-18-community-meeting-notes.md) | Updates on ongoing projects such as Grin-GUI, MWixnet testing, Python Grin, and Grim Wallet.  Exploration of the Grin project wishlist and critical development needs, especially multisig and safe cancel transactions. |
+July 02| [Agenda](https://github.com/grincc/agenda/issues/138)| [Notes](notes/2024-07-02-community-meeting-notes.md) | Grin-GUI's build target, Docker and Kubernetes, aiming for easier testing of MWixnet networks. Discussion on the prioritization of MWixnet testing over pay-joins in the near future.|
+July 16| [Agenda](https://github.com/grincc/agenda/issues/139)| [Notes](notes/2024-07-16-community-meeting-notes.md) | No topics.|
+July 30| [Agenda](https://github.com/grincc/agenda/issues/140)| [Notes](notes/2024-07-30-community-meeting-notes.md) | Update from @yeast on advancements in MWixnet and the Docker project,Docker project now capable of setting up a full node-wallet-MWixnet network for both Testnet and Mainnet. Work in progress to expand the network setup to include multiple MWixnet nodes on Testnet, allowing for GUI wallet transaction testing.|
+Aug 13| [Agenda](https://github.com/grincc/agenda/issues/141)| [Notes](notes/2024-08-13-community-meeting-notes.md) | No topics.|
+Aug 27| [Agenda](https://github.com/grincc/agenda/issues/142)| [Notes](notes/2024-08-27-community-meeting-notes.md) | Updates on Grim Wallet,highlighting its features like multi-language support, multi-wallet and account support, local node options. Grin core and wallet, and the Grin Docker project.|
+Sept 10| [Agenda](https://github.com/grincc/agenda/issues/144)| [Notes](notes/2024-09-10-community-meeting-notes.md) | Concerns about community adoption of Grinmint pool and a related debate on the potential for mining pool centralization.|
+Sept 24| [Agenda](https://github.com/grincc/agenda/issues/145)| [Notes](notes/2024-09-24-community-meeting-notes.md) | Discussion regarding the status of Niffler wallet. GRIM wallet link addition to main site.Introduction of "voucher wallets" as a key feature of the tool, enabling easy "gift card" style transfers.|
+Oct 08| [Agenda](https://github.com/grincc/agenda/issues/146)| [Notes](notes/2024-10-08-community-meeting-notes.md) | No topics.|
+Oct 22| [Agenda](https://github.com/grincc/agenda/issues/147)| [Notes](notes/2024-10-22-community-meeting-notes.md) | Update from @yeastplume on integrating MWixnet comsig code into the master branch of `grin-wallet` including the json-rpc API.
+Progress and the potential benefits of slatepack support in `mimblewimble-py`.|
+Nov 05| [Agenda](https://github.com/grincc/agenda/issues/148)| [Notes](notes/2024-11-05-community-meeting-notes.md) | Updates on MWixnet code integration into grin-wallet and libsecp256k1 v0.6.0 release,Discussion about a Grin Seed Signer box and the possibility of a bounty for related air-gapped device software.|
+Nov 19| [Agenda](https://github.com/grincc/agenda/issues/149)| [Notes](notes/2024-11-19-community-meeting-notes.md) |Discussion about recent development efforts and new feature requests, including BIP39 passphrases, offline signing, Tor integration, and a seed checker.Call for testing of Grin GUI with contracts workflow and setting up MWixnet nodes.Discussion on a Grin seedsigner bounty. GRIN DEX idea.|
+Dec 03| [Agenda](https://github.com/grincc/agenda/issues/150)| [Notes](notes/2024-12-03-community-meeting-notes.md) |Finalization of the Grin Telegram Bot bounty.Testing efforts for Grin GUI and MWixnet, with a call for community feedback.|
+Dec 17| [Agenda](https://github.com/grincc/agenda/issues/151)| [Notes](notes/2024-12-17-community-meeting-notes.md) | Donation to grincoin.org. Specific technical issues encountered  while trying to run MWixnet |
+Dec 31| [Agenda](https://github.com/grincc/agenda/issues/152)| [Notes](notes/2024-12-31-community-meeting-notes.md) | No discussion. |
 
 ### 2023
 <details open>
