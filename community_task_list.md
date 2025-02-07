@@ -58,3 +58,12 @@
 30 January   |Supporting Grinventions mimblewimble-py implementation  |[Grinventions ](https://github.com/grinventions/mimblewimble-py) |   | ✅ 
 29 February   | Donation Grinventions voting - GK voting  |[MimbleWimble Python ](https://forum.grin.mw/t/should-the-cc-donate-to-grinvention-mimblewimble-py/10942/27)-  [GK cobragrin](https://forum.grin.mw/t/request-for-funding-cobragrin-2024-2025/10949/4) |   | ✅ 
 02 March   |  mimblewimbple-python Wishlist |[MimbleWimble-python Wishlist ](https://github.com/grinventions/mimblewimble-py/labels/wishlist) |   | On going
+09 April   |  Gui wallet updates |[Gui wallet update](https://forum.grin.mw/t/grin-core-gui-first-builds/10891/19t) |   | On going
+09 May   |  Mwixnet  phase#3 |[Mixnet phase 3 complete ](https://github.com/scilio/mwixnet-1/tree/reorg) |   | ✅ 
+02 June   |  Testing GUI wallet Mwixnet   |[Test GUI Wallet, Mwixnet ](https://github.com/scilio/mwixnet-1/tree/reorg) |   | On going
+30 July   |   GUI wallet Docker   |[ GUI Wallet Docker  ](https://github.com/mimblewimble/grin-docker) |   | ✅ 
+27 Sept   |   GRIM Wallet main site integrations   |[Grim wallet link to grin.mw  ](https://grin.mw/download) |   | ✅ 
+19 Nov   |   Telegram bot bounty   |[Telegram bot bounty  ](https://forum.grin.mw/t/bounty-for-telegram-bot-locked/9876) |   | On going
+17 Dec   |   Improved documentation for Mwixnet   |[Mwixnet documentation  ](https://github.com/mimblewimble/mwixnet) |   | On going
+30 Dec   |  Donation to Grincoin.org   |[Donation to Grincoin.org  ](https://forum.grin.mw/t/donation-to-grincoin-org/11415) |   | On going
+
