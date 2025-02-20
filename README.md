@@ -9,6 +9,65 @@ A chronological list of decisions made by the Community Council, with references
 
 
 
+
+### 2024
+<details open>
+<summary>Expand/collapse list of notes</summary>
+
+Date | Agenda | Notes  | Tl:dr |
+|:---|:---|---|:---|
+Jan 14| [Agenda](https://github.com/grincc/agenda/issues/153)| [Notes](notes/2025-01-14-community-meeting-notes.md) |Payment [Donation to Grincoin.org ](https://forum.grin.mw/t/donation-to-grincoin-org/11415), Alternatives to Keybase communication. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 2024
 <details open>
 <summary>Expand/collapse list of notes</summary>
