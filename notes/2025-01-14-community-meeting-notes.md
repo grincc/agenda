@@ -1,6 +1,6 @@
 # Community Meeting Notes January 14, 2025
 
-Community Council (CC) meeting held in a text-based chat (likely Keybase). Meeting duration not explicitly stated, assumed to be around 30 minutes.
+Community Council (CC) meeting held in a Keybase chat. Meeting duration not explicitly stated, assumed to be around 30 minutes.
 
 Notes are truncated, and conversations sorted based on topic and not always chronological. Quotes are edited for brevity and clarity, and not always exact.
 
@@ -17,6 +17,7 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 - Approval of the donation to grincoin.org.
 - Discussion about potential alternatives to Keybase for improved community participation.
+- [mimblewimble/docs](https://github.com/mimblewimble/docs/pull/84) repo update
 
 
 # Agenda Points & Actions
@@ -81,4 +82,4 @@ Does it make sense to contact the old developers and make them an offer?
 
 ## *TO DO List*
 
-*   GRIM wallet documentation update on GitHub
+* [Docs github repo wallet documentation](https://github.com/mimblewimble/docs/pull/84) review on GitHub.
