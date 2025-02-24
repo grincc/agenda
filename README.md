@@ -10,7 +10,7 @@ A chronological list of decisions made by the Community Council, with references
 
 
 
-### 2024
+### 2025
 <details open>
 <summary>Expand/collapse list of notes</summary>
 
@@ -18,7 +18,7 @@ Date | Agenda | Notes  | Tl:dr |
 |:---|:---|---|:---|
 Jan 14| [Agenda](https://github.com/grincc/agenda/issues/153)| [Notes](notes/2025-01-14-community-meeting-notes.md) |Payment [Donation to Grincoin.org ](https://forum.grin.mw/t/donation-to-grincoin-org/11415), Alternatives to Keybase communication. |
 Jan 28| [Agenda](https://github.com/grincc/agenda/issues/154)| [Notes](notes/2025-01-28-community-meeting-notes.md) | Open discussion regarding (Grim) wallet development, * Payment proofs functionality and UX, *Funding proposal for PIBD implementation,[Docs repo](https://github.com/mimblewimble/docs/pull/84) update. |
-
+Feb 11| [Agenda](https://github.com/grincc/agenda/issues/155)| [Notes](notes/2025-02-11-community-meeting-notes.md) | Groundskeeper funding [ request](https://forum.grin.mw/t/cekic-progress-and-request-for-2025-groundskeeper/11615) . |
 
 
 

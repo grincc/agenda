@@ -7,6 +7,10 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+91| 2025/02/11| Groundskeeper funding request | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2024-12-31-community-meeting-notes.md) 
+90| 2025/01/28| Draft payment for Grincoin.org. Update mimblewimble/docs | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2024-12-31-community-meeting-notes.md) 
+89| 2025/01/14| Review mimblewimble/docs. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-01-14-community-meeting-notes.md) 
+88| 2024/12/31| No decision. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2024-12-31-community-meeting-notes.md) 
 87| 2024/12/17|Donation to grincoin.org  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2024-12-17-community-meeting-notes.md)
 86| 2024/12/03|Telegram bounty announced. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2024-12-03-community-meeting-notes.md)
 85| 2024/11/19|Telegram bot bounty,seedsigner bounty idea downvoted  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2024-11-19-community-meeting-notes.md)
