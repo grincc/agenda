@@ -53,6 +53,11 @@
 07 November   | Community wishlist updates |[Grin wishlist 2024](https://github.com/grincc/hub/blob/main/wishlist.md) |   | On going
 07 November   | Unconfirmed tx problems/ cancelled transactions |[Unconfirmed tx issue ](https://github.com/mimblewimble/grin/issues/2880) | [Cancelled tx problems](https://forum.grin.mw/t/lost-grin-coins-while-sending-to-tradeogre/10802/22)  | On going
 21 November   | Grin stackexchange revive |[Stackexchange proposal](https://forum.grin.mw/t/rejected-grin-stack-exchange-area-51-community/9406/46) |   | On going
+
+**(2024 period)**
+
+| Date | Tasks | Progress info| Meeting notes | Status |
+| ----- | ---- | ---- | ---- | --- | 
 02 January   |Future of ironbelly wallet  |[Ironbelly wallet status ](https://forum.grin.mw/t/future-of-ironbelly/10859) |   | Ironbelly dev abandoned the wallet development.Be wary using it.
 12 January   |Community testing GUI wallet  |[Gui wallet first builds ](https://github.com/mimblewimble/grin-gui/issues?q=is%3Aopen+is%3Aissue) |   | On going
 30 January   |Supporting Grinventions mimblewimble-py implementation  |[Grinventions ](https://github.com/grinventions/mimblewimble-py) |   | ✅ 
@@ -66,4 +71,9 @@
 19 Nov   |   Telegram bot bounty   |[Telegram bot bounty  ](https://forum.grin.mw/t/bounty-for-telegram-bot-locked/9876) |   | On going
 17 Dec   |   Improved documentation for Mwixnet   |[Mwixnet documentation  ](https://github.com/mimblewimble/mwixnet) |   | On going
 30 Dec   |  Donation to Grincoin.org   |[Donation to Grincoin.org  ](https://forum.grin.mw/t/donation-to-grincoin-org/11415) |   | On going
+
+**(2025 period)**
+
+| Date | Tasks | Progress info| Meeting notes | Status |
+| ----- | ---- | ---- | ---- | --- | 
 07 Feb   |  Governance CC Voting groundskeeper |[CC voting Groundskeeper](https://forum.grin.mw/t/cekic-progress-and-request-for-2025-groundskeeper/11615) |   | On going
