@@ -53,17 +53,19 @@
 07 November   | Community wishlist updates |[Grin wishlist 2024](https://github.com/grincc/hub/blob/main/wishlist.md) |   | On going
 07 November   | Unconfirmed tx problems/ cancelled transactions |[Unconfirmed tx issue ](https://github.com/mimblewimble/grin/issues/2880) | [Cancelled tx problems](https://forum.grin.mw/t/lost-grin-coins-while-sending-to-tradeogre/10802/22)  | On going
 21 November   | Grin stackexchange revive |[Stackexchange proposal](https://forum.grin.mw/t/rejected-grin-stack-exchange-area-51-community/9406/46) |   | On going
-02 January   |Future of ironbelly wallet  |[Ironbelly wallet status ](https://forum.grin.mw/t/future-of-ironbelly/10859) |   | On going
-12 January   |Community testing GUI wallet  |[Gui wallet first builds ](https://github.com/mimblewimble/grin-gui/issues?q=is%3Aopen+is%3Aissue) |   | On going
-30 January   |Supporting Grinventions mimblewimble-py implementation  |[Grinventions ](https://github.com/grinventions/mimblewimble-py) |   | ✅ 
-29 February   | Donation Grinventions voting - GK voting  |[MimbleWimble Python ](https://forum.grin.mw/t/should-the-cc-donate-to-grinvention-mimblewimble-py/10942/27)-  [GK cobragrin](https://forum.grin.mw/t/request-for-funding-cobragrin-2024-2025/10949/4) |   | ✅ 
-02 March   |  mimblewimbple-python Wishlist |[MimbleWimble-python Wishlist ](https://github.com/grinventions/mimblewimble-py/labels/wishlist) |   | On going
-09 April   |  Gui wallet updates |[Gui wallet update](https://forum.grin.mw/t/grin-core-gui-first-builds/10891/19t) |   | On going
-09 May   |  Mwixnet  phase#3 |[Mixnet phase 3 complete ](https://github.com/scilio/mwixnet-1/tree/reorg) |   | ✅ 
-02 June   |  Testing GUI wallet Mwixnet   |[Test GUI Wallet, Mwixnet ](https://github.com/scilio/mwixnet-1/tree/reorg) |   | On going
-30 July   |   GUI wallet Docker   |[ GUI Wallet Docker  ](https://github.com/mimblewimble/grin-docker) |   | ✅ 
-27 Sept   |   GRIM Wallet main site integrations   |[Grim wallet link to grin.mw  ](https://grin.mw/download) |   | ✅ 
-19 Nov   |   Telegram bot bounty   |[Telegram bot bounty  ](https://forum.grin.mw/t/bounty-for-telegram-bot-locked/9876) |   | On going
-17 Dec   |   Improved documentation for Mwixnet   |[Mwixnet documentation  ](https://github.com/mimblewimble/mwixnet) |   | On going
+02 January 2024  |Future of ironbelly wallet  |[Ironbelly wallet status ](https://forum.grin.mw/t/future-of-ironbelly/10859) |   | On going
+12 January 2024   |Community testing GUI wallet  |[Gui wallet first builds ](https://github.com/mimblewimble/grin-gui/issues?q=is%3Aopen+is%3Aissue) |   | On going
+30 January 2024  |Supporting Grinventions mimblewimble-py implementation  |[Grinventions ](https://github.com/grinventions/mimblewimble-py) |   | ✅ 
+29 February 2024  | Donation Grinventions voting - GK voting  |[MimbleWimble Python ](https://forum.grin.mw/t/should-the-cc-donate-to-grinvention-mimblewimble-py/10942/27)-  [GK cobragrin](https://forum.grin.mw/t/request-for-funding-cobragrin-2024-2025/10949/4) |   | ✅ 
+02 March 2024  |  mimblewimbple-python Wishlist |[MimbleWimble-python Wishlist ](https://github.com/grinventions/mimblewimble-py/labels/wishlist) |   | On going
+09 April 2024  |  Gui wallet updates |[Gui wallet update](https://forum.grin.mw/t/grin-core-gui-first-builds/10891/19t) |   | On going
+09 May 2024  |  Mwixnet  phase#3 |[Mixnet phase 3 complete ](https://github.com/scilio/mwixnet-1/tree/reorg) |   | ✅ 
+02 June 2024  |  Testing GUI wallet Mwixnet   |[Test GUI Wallet, Mwixnet ](https://github.com/scilio/mwixnet-1/tree/reorg) |   | On going
+30 July 2024  |   GUI wallet Docker   |[ GUI Wallet Docker  ](https://github.com/mimblewimble/grin-docker) |   | ✅ 
+27 Sept 2024  |   GRIM Wallet main site integrations   |[Grim wallet link to grin.mw  ](https://grin.mw/download) |   | ✅ 
+19 Nov 2024  |   Telegram bot bounty   |[Telegram bot bounty  ](https://forum.grin.mw/t/bounty-for-telegram-bot-locked/9876) |   | On going
+17 Dec 2024  |   Improved documentation for Mwixnet   |[Mwixnet documentation  ](https://github.com/mimblewimble/mwixnet) |   | On going
 30 Dec   |  Donation to Grincoin.org   |[Donation to Grincoin.org  ](https://forum.grin.mw/t/donation-to-grincoin-org/11415) |   | On going
-
+14 Jan 2025   | Review mimblewimble/docs repo,finalize vote for Grincoin.org.    |[Review mimblewimble/docs  ](https://github.com/mimblewimble/docs/pull/84) |   | ✅ 
+28 Jan 2025   | Draft payment for Grincoin.org    |[Update mimblewimble/docs  ](https://github.com/mimblewimble/docs/pull/84) |   | ✅
+14 Feb 2025   | Groundskeeper funding request    |[Groundskeeper funding request  ](https://forum.grin.mw/t/cekic-progress-and-request-for-2025-groundskeeper/11615) |   | On going
