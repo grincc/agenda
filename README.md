@@ -22,7 +22,7 @@ Feb 11| [Agenda](https://github.com/grincc/agenda/issues/155)| [Notes](notes/202
 Feb 25| [Agenda](https://github.com/grincc/agenda/issues/157)| [Notes](notes/2025-02-25-community-meeting-notes.md) | Community & Grin governance, payment proofs status.  |
 March 11| [Agenda](https://github.com/grincc/agenda/issues/162)| [Notes](notes/2025-03-11-community-meeting-notes.md) | Grin governance issues.  |
 March 25| [Agenda](https://github.com/grincc/agenda/issues/164)| [Notes](notes/2025-03-25-community-meeting-notes.md) | Grin CC governance discussion, [Payment proofs](https://forum.grin.mw/t/grin-product-wishlist/9704/62),  [Grin++ fix](https://forum.grin.mw/t/funding-proposal-pibd-implementation-in-grin/11583/2) issue, [Grincc.Mw site](https://www.grincc.mw/) update |
-
+April 08| [Agenda](https://github.com/grincc/agenda/issues/166)| [Notes](notes/2025-04-08-community-meeting-notes.md) | Grin status governance , [Payment proofs](https://forum.grin.mw/t/grin-product-wishlist/9704/62),  [Grin++ fix](https://forum.grin.mw/t/funding-proposal-pibd-implementation-in-grin/11583/2) issue, [Grincc.Mw site](https://www.grincc.mw/) update |
 
 
 
