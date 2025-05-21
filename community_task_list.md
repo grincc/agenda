@@ -75,4 +75,5 @@
 25 March 2025 | Update Grincc website |[GrinCC.mw](https://www.grincc.mw/) |   | on going
 08 April 2025 | Payment proof fix |[Payment Proofs](https://forum.grin.mw/t/grin-product-wishlist/9704/61) |   | On going
 06 May 2025   | Request for server cost Grincc.mw site. GrinCC FUND disclosure.|[Payment Request for stakervali](https://github.com/grincc/agenda/issues/171#issuecomment-2848611872) |  | On going
-
+20 May 2025   |New CC Governance; transition dormant Key Holders to new CC members, Multisig development processing |    |   | On going
+o|
