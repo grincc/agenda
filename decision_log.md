@@ -7,6 +7,7 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+98| 2025/05/20| No decision | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-05-20-community-meeting-notes.md)
 97| 2025/05/06| No decision | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-05-06-community-meeting-notes.md)
 96| 2025/04/22| No decision | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-04-22-community-meeting-notes.md)
 95| 2025/04/08| No decision | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-04-08-community-meeting-notes.md)
