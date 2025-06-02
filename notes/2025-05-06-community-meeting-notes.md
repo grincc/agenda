@@ -27,6 +27,7 @@ Notes are truncated, and conversations are sorted based on topic but not always 
     *   Groundkeeper voting for funding request
     *   Payment proofs fix
     *   Update GrinCC website
+*    Current Agenda
 *   Fixing peers, grin++ node bans Rust nodes.
 *   Exploring Nym integration/usage with Mwixnet, TOR peers, Tx flow.
 *   Disclosure of grin funds.

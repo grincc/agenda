@@ -67,12 +67,15 @@
 17 Dec 2024  |   Improved documentation for Mwixnet   |[Mwixnet documentation  ](https://github.com/mimblewimble/mwixnet) |   | On going
 30 Dec 2024  |  Donation to Grincoin.org   |[Donation to Grincoin.org  ](https://forum.grin.mw/t/donation-to-grincoin-org/11415) |   | On going
 14 Jan 2025   | Review mimblewimble/docs repo,finalize vote for Grincoin.org.    |[Review mimblewimble/docs  ](https://github.com/mimblewimble/docs/pull/84) |   | ✅ 
-28 Jan 2025   | Draft payment for Grincoin.org    |[Update mimblewimble/docs  ](https://github.com/mimblewimble/docs/pull/84) |   | ✅
+28 Jan 2025   | Draft payment for Grincoin.org    |[Update mimblewimble/docs  ](https://github.com/mimblewimble/docs/pull/84) |   | On going
 14 Feb 2025   | Groundskeeper funding request    |[Groundskeeper funding request  ](https://forum.grin.mw/t/cekic-progress-and-request-for-2025-groundskeeper/11615) |   | On going
 20 Feb 2025   | Funding proposal invitation for PIBD implementation Grin++ devs|[ PIBD funding proposal for Grin++](https://forum.grin.mw/t/funding-proposal-pibd-implementation-in-grin/11583/14) |  | On going
-25 Feb 2025   | Call to CC members for governance|[Invite voting]( https://forum.grin.mw/t/cekic-progress-and-request-for-2025-groundskeeper/11615/15) |   | On going 
-11 March 2025 | Request for Proof of Life Check for CC key holders|[CC governance Activity request]( https://github.com/grincc/agenda/issues/162#issuecomment-2700747007) | | On going
+25 Feb 2025   | Call to CC members for governance|[Invite voting]( https://forum.grin.mw/t/cekic-progress-and-request-for-2025-groundskeeper/11615/15) |   |  ✅ 
+11 March 2025 | Request for Proof of Life Check for CC key holders|[CC governance Activity request]( https://github.com/grincc/agenda/issues/162#issuecomment-2700747007) | | ✅ 
 25 March 2025 | Update Grincc website |[GrinCC.mw](https://www.grincc.mw/) |   | on going
 08 April 2025 | Payment proof fix |[Payment Proofs](https://forum.grin.mw/t/grin-product-wishlist/9704/61) |   | On going
+06 May 2025   | Payment Request for server cost Grincc.mw site. GrinCC FUND disclosure.|[Payment Request for stakervali](https://github.com/grincc/agenda/issues/171#issuecomment-2848611872) |  | On going
+20 May 2025   | Announcement for new CC Governance structure. Seek collaboration for multisig development .| |  | On going
 06 May 2025   | Request for server cost Grincc.mw site. GrinCC FUND disclosure.|[Payment Request for stakervali](https://github.com/grincc/agenda/issues/171#issuecomment-2848611872) |  | On going
+20 May 2025   |New CC Governance; transition dormant Key Holders to new CC members, Multisig development processing | [Community Council](https://forum.grin.mw/t/introducing-the-new-community-council-cc/11793)    |   | On going
 
