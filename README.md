@@ -26,6 +26,7 @@ April 08| [Agenda](https://github.com/grincc/agenda/issues/166)| [Notes](notes/2
 April 22| [Agenda](https://github.com/grincc/agenda/issues/169)| [Notes](notes/2025-04-22-community-meeting-notes.md) | 
 May 06| [Agenda](https://github.com/grincc/agenda/issues/171)| [Notes](notes/2025-05-06-community-meeting-notes.md) | Diclosure of Grin funds, GrinCC website server cost, NYM meshnetwork integration | 
 May 20| [Agenda](https://github.com/grincc/agenda/issues/173)| [Notes](notes/2025-05-20-community-meeting-notes.md) | Governance CC Reset- New Structure Duty and responsibilities, Multisig development. |
+Jun 03| [Agenda](https://github.com/grincc/agenda/issues/175)| [Notes](notes/2025-06-03-community-meeting-notes.md) | New Grin Governance structure  discussed, meeting platform changed from Keybase to Telegram for more community participation and transparency, CC Pending payments voted. |
 
 
 
