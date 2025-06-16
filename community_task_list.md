@@ -77,5 +77,6 @@
 06 May 2025   | Payment Request for server cost Grincc.mw site. GrinCC FUND disclosure.|[Payment Request for stakervali](https://github.com/grincc/agenda/issues/171#issuecomment-2848611872) |  | On going
 20 May 2025   | Announcement for new CC Governance structure. Seek collaboration for multisig development .| |  | On going
 06 May 2025   | Request for server cost Grincc.mw site. GrinCC FUND disclosure.|[Payment Request for stakervali](https://github.com/grincc/agenda/issues/171#issuecomment-2848611872) |  | On going
-20 May 2025   |New CC Governance; transition dormant Key Holders to new CC members, Multisig development processing | [Community Council](https://forum.grin.mw/t/introducing-the-new-community-council-cc/11793)    |   | On going
+20 May 2025   |New CC Governance; transition dormant Key Holders to new CC members, New GGC Fund Multisig  processing | [Intro NEW Community Council](https://forum.grin.mw/t/introducing-the-new-community-council-cc/11793)    |   | On going
+03 June 2025   |New GG Governance; meetings to move new community Telegram channel, GGC announcement  | [Grin Governance Council](https://t.me/Grin_Governance)    |   | ✅ 
 
