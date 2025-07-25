@@ -7,8 +7,9 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+102| 2025/07/15| Grin Telegram Bot bounty assigned to @wiesche | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-07-15-community-meeting-notes.md)
 101| 2025/07/01| No decision | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-07-01-community-meeting-notes.md)
-100| 2025/06/17| Organize grin github for GGC memebers. Process for Btc fund 4/7 multisig setup. Update grin sites and fix broken links.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-06-17-community-meeting-notes.md) 
+100| 2025/06/17| Organize grin github for GGC members. Process for Btc fund 4/7 multisig setup. Update grin sites and fix broken links.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-06-17-community-meeting-notes.md) 
 99| 2025/06/03| Grin Governance Community formed. Keybase meetings will be held at [GGC Telegram channel](https://t.me/Grin_Governance), Pending payments voted in favor.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-06-03-community-meeting-notes.md)
 98| 2025/05/20| No decision | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-05-20-community-meeting-notes.md)
 97| 2025/05/06| No decision | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-05-06-community-meeting-notes.md)
