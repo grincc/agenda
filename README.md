@@ -29,7 +29,7 @@ May 20| [Agenda](https://github.com/grincc/agenda/issues/173)| [Notes](notes/202
 Jun 03| [Agenda](https://github.com/grincc/agenda/issues/175)| [Notes](notes/2025-06-03-community-meeting-notes.md) | New Grin Governance structure  discussed, meeting platform changed from Keybase to Telegram for more community participation and transparency, CC Pending payments voted. |
 Jun 17| [Agenda](https://github.com/grincc/agenda/issues/177)| [Notes](notes/2025-06-17-community-meeting-notes.md) | Engage with Tor developers about fixing Tor (Arti library)   Grin Btc fund 4/7 multisig setup, mimblewimble/grin Github organization for GGC members, Updating grin sites, fix broken links. |
 July 01| [Agenda](https://github.com/grincc/agenda/issues/179)| [Notes](notes/2025-07-01-community-meeting-notes.md) |  Grin Btc fund 4/7 multisig setup, mimblewimble/grin Github organization for GGC members, Pending payments. |
-
+July 15| [Agenda](https://github.com/grincc/agenda/issues/181)| [Notes](notes/2025-07-15-community-meeting-notes.md) | Github organization permissions, Grin Telegram bot finalization, Grin Btc Fund process, Wallet discussion, Umbrel Node bounty idea. |
 
 
 
