@@ -1,5 +1,5 @@
 
-Community Meeting Notes July 29, 2025
+**Community Meeting Notes July 29, 2025**
 
 Grin Governance Council (GGC) meeting held in Telegram @ 22:34 UTC. Meeting lasted approx. 70 minutes.
 
@@ -7,14 +7,14 @@ Notes are truncated, and conversations sorted based on topic and not always chro
 
 **Community attendance:**
 
-anonymous
-ardocrat
-cekic
-cole
-defistaker
-grinmaximus
-wayne
-wiesche
+* anonymous
+* ardocrat
+* cekic
+* cole
+* defistaker
+* grinmaximus
+* wayne
+* wiesche
 
 
 **Short Summary**
