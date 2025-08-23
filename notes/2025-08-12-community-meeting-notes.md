@@ -51,7 +51,7 @@ transatoshi: Thank you for clarifying, since we have merged the OC + CC it is ju
 
 cekic: yes true
 
-##Technical Discussion: Node Sync Speed & Peers##
+## Technical Discussion: Node Sync Speed & Peers ##
 
 cekic: There is no topic added for agenda. Since title is technical meeting, that slow synch and peer issue persists for me generally. It was synching more fast before. Anybody has such issue lately ?
 
@@ -191,7 +191,7 @@ wiesche: @bluegecko When are you planning to launch the Exchange?
 bluegecko: Whenever I can finish the code lol. Maybe October or so
 💛 wiesche, cekic
 
-## Community Tools and Contributions ##
+## Community Tools and Contributions (SuchGRIN.lol meme microtipping site) ##
 
 
 transatoshi: I am going to be making a memes for tips site very similar to suchwow.xyz except without needing to make an account. You'll be able to post memes with a slatepack address or email/TG/etc for manual slatepacks so you can receive tips
