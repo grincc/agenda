@@ -24,7 +24,7 @@ Wallet UX discussion.
 
 **Agenda Points & Actions**
 
-Current meeting agenda https://github.com/grincc/agenda/issues/181
+Current meeting agenda https://github.com/grincc/agenda/issues/184
 
 *   Fixing peers, Grin++ node bans Rust nodes
 *   Multisig Implementation
