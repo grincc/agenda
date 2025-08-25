@@ -80,4 +80,4 @@
 17 June 2025   | New github organization, Process 4/7 multisig setup for Grin Btc FUND, Update grin sites, fix broken links. |  New Grin BTC fund established.Grin.mw broken links updated    |    |   ✅ 
 01 July 2025   | Github reorganization, Grin Btc FUND 4/7 multisig setup, pending payments. | Grin Btc FUND 4/7 multisig done. Pending payments resolved.     |    |   ✅
 15 July 2025  | [Grin multisig Proposal](https://forum.grin.mw/t/funding-proposal-grin-multisig/11837)  |     |    |   On Going
-12 Aug 2025    | Umbrel/OS bounty](https://forum.grin.mw/t/funding-request-grin-node-meets-umbrelos-embassyos/11928/23) |   |     |   On going
+12 Aug 2025    | [Umbrel/OS bounty](https://forum.grin.mw/t/funding-request-grin-node-meets-umbrelos-embassyos/11928/23) |   |     |   On going
