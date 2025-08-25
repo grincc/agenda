@@ -63,19 +63,21 @@
 02 June 2024  |  Testing GUI wallet Mwixnet   |[Test GUI Wallet, Mwixnet ](https://github.com/scilio/mwixnet-1/tree/reorg) |   | On going
 30 July 2024  |   GUI wallet Docker   |[ GUI Wallet Docker  ](https://github.com/mimblewimble/grin-docker) |   | ✅ 
 27 Sept 2024  |   GRIM Wallet main site integrations   |[Grim wallet link to grin.mw  ](https://grin.mw/download) |   | ✅ 
-19 Nov 2024  |   Telegram bot bounty   |[Telegram bot bounty  ](https://forum.grin.mw/t/bounty-for-telegram-bot-locked/9876) |   | On going
+19 Nov 2024  |   Telegram bot bounty   |[Telegram bot bounty  ](https://forum.grin.mw/t/bounty-for-telegram-bot-locked/9876) | Finalized. TG Bot Activated  |  ✅ 
 17 Dec 2024  |   Improved documentation for Mwixnet   |[Mwixnet documentation  ](https://github.com/mimblewimble/mwixnet) |   | On going
-30 Dec 2024  |  Donation to Grincoin.org   |[Donation to Grincoin.org  ](https://forum.grin.mw/t/donation-to-grincoin-org/11415) |   | On going
+30 Dec 2024  |  Donation to Grincoin.org   |[Donation to Grincoin.org  ](https://forum.grin.mw/t/donation-to-grincoin-org/11415) | Paid  |  ✅ 
 14 Jan 2025   | Review mimblewimble/docs repo,finalize vote for Grincoin.org.    |[Review mimblewimble/docs  ](https://github.com/mimblewimble/docs/pull/84) |   | ✅ 
-28 Jan 2025   | Draft payment for Grincoin.org    |[Update mimblewimble/docs  ](https://github.com/mimblewimble/docs/pull/84) |   | On going
-14 Feb 2025   | Groundskeeper funding request    |[Groundskeeper funding request  ](https://forum.grin.mw/t/cekic-progress-and-request-for-2025-groundskeeper/11615) |   | On going
+28 Jan 2025   | Draft payment for Grincoin.org    |[Update mimblewimble/docs  ](https://github.com/mimblewimble/docs/pull/84) | Done  |  ✅ 
+14 Feb 2025   | Groundskeeper funding request    |[Groundskeeper funding request  ](https://forum.grin.mw/t/cekic-progress-and-request-for-2025-groundskeeper/11615) | Paid  |  ✅ 
 20 Feb 2025   | Funding proposal invitation for PIBD implementation Grin++ devs|[ PIBD funding proposal for Grin++](https://forum.grin.mw/t/funding-proposal-pibd-implementation-in-grin/11583/14) |  | On going
 25 Feb 2025   | Call to CC members for governance|[Invite voting]( https://forum.grin.mw/t/cekic-progress-and-request-for-2025-groundskeeper/11615/15) |   |  ✅ 
 11 March 2025 | Request for Proof of Life Check for CC key holders|[CC governance Activity request]( https://github.com/grincc/agenda/issues/162#issuecomment-2700747007) | | 
-25 March 2025 | Update Grincc website |[GrinCC.mw](https://www.grincc.mw/) |   | on going
+25 March 2025 | Update Grincc website |[GrinCC.mw](https://www.grincc.mw/) |   |  ✅ 
 08 April 2025 | Payment proof fix |[Payment Proofs](https://forum.grin.mw/t/grin-product-wishlist/9704/61) |   | On going
-06 May 2025   | Payment Request for server cost Grincc.mw site. GrinCC FUND disclosure.|[Payment Request for stakervali](https://github.com/grincc/agenda/issues/171#issuecomment-2848611872) |  | ✅
+06 May 2025   | Payment Request for server cost Grincc.mw site. GrinCC FUND disclosure.|[Payment Request for stakervali](https://github.com/grincc/agenda/issues/171#issuecomment-2848611872) | Paid  | ✅
 20 May 2025   |New CC Governance; transition dormant Key Holders to new CC members, New GGC Fund Multisig  processing | [Intro NEW Community Council](https://forum.grin.mw/t/introducing-the-new-community-council-cc/11793)    |   | ✅
 03 June 2025   |New GG Governance; meetings to move new community Telegram channel, GGC announcement  | [Grin Governance Council](https://t.me/Grin_Governance)    |   | ✅ 
-17 June 2025   | New github organization, Process 4/7 multisig setup for Grin Btc FUND, Update grin sites, fix broken links. |   |       | On going 
-01 July 2025   | Github reorganization, Grin Btc FUND 4/7 multisig setup, pending payments. |      |    |    On going
+17 June 2025   | New github organization, Process 4/7 multisig setup for Grin Btc FUND, Update grin sites, fix broken links. |  New Grin BTC fund established.Grin.mw broken links updated    |    |   ✅ 
+01 July 2025   | Github reorganization, Grin Btc FUND 4/7 multisig setup, pending payments. | Grin Btc FUND 4/7 multisig done. Pending payments resolved.     |    |   ✅
+15 July 2025  | [Grin multisig Proposal](https://forum.grin.mw/t/funding-proposal-grin-multisig/11837)  |     |    |   On Going
+12 Aug 2025    | Umbrel/OS bounty](https://forum.grin.mw/t/funding-request-grin-node-meets-umbrelos-embassyos/11928/23) |   |     |   On going
