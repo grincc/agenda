@@ -30,7 +30,8 @@ Jun 03| [Agenda](https://github.com/grincc/agenda/issues/175)| [Notes](notes/202
 Jun 17| [Agenda](https://github.com/grincc/agenda/issues/177)| [Notes](notes/2025-06-17-community-meeting-notes.md) | Engage with Tor developers about fixing Tor (Arti library)   Grin Btc fund 4/7 multisig setup, mimblewimble/grin Github organization for GGC members, Updating grin sites, fix broken links. |
 July 01| [Agenda](https://github.com/grincc/agenda/issues/179)| [Notes](notes/2025-07-01-community-meeting-notes.md) |  Grin Btc fund 4/7 multisig setup, mimblewimble/grin Github organization for GGC members, Pending payments. |
 July 15| [Agenda](https://github.com/grincc/agenda/issues/181)| [Notes](notes/2025-07-15-community-meeting-notes.md) | Github organization permissions, Grin Telegram bot finalization, Grin Btc Fund process, Wallet discussion, Umbrel Node bounty idea. |
-
+July 29| [Agenda](https://github.com/grincc/agenda/issues/184)| [Notes](notes/2025-07-29-community-meeting-notes.md) | Grincoin.org donation 2500$ approved.TG Grin Bot bounty approved.A new bounty for an Umbrel/EmbassyOS App was discussed. (GGC) BTC fund Announced. |
+AUG 12| [Agenda](https://github.com/grincc/agenda/issues/186)| [Notes](notes/2025-08-12-community-meeting-notes.md) | Umbrel/OS bounty to be finalized. A community contributed Grin.exchange announced. SuchGRIN.lol meme microtipping site announced. |
 
 
 
