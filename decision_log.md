@@ -7,6 +7,8 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+104| 2025/08/12| Umbrel/OS bounty to be finalized.   | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-08-12-community-meeting-notes.md)
+103| 2025/07/29| Grincoin.org donation 2500$ approved.TG Grin Bot bounty approved. (GGC) BTC fund Announced. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-07-29-community-meeting-notes.md)
 102| 2025/07/15| Grin Telegram Bot bounty assigned to @wiesche | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-07-15-community-meeting-notes.md)
 101| 2025/07/01| No decision | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-07-01-community-meeting-notes.md)
 100| 2025/06/17| Organize grin github for GGC members. Process for Btc fund 4/7 multisig setup. Update grin sites and fix broken links.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-06-17-community-meeting-notes.md) 
