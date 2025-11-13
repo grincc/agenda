@@ -81,3 +81,4 @@
 01 July 2025   | Github reorganization, Grin Btc FUND 4/7 multisig setup, pending payments. | Grin Btc FUND 4/7 multisig done. Pending payments resolved.     |    |   ✅
 15 July 2025  | [Grin multisig Proposal](https://forum.grin.mw/t/funding-proposal-grin-multisig/11837)  |     |    |   On Going
 12 Aug 2025    | [Umbrel/OS bounty](https://forum.grin.mw/t/funding-request-grin-node-meets-umbrelos-embassyos/11928/23) |   |     |   On going
+26 Aug  2025   | Grin MULTISIG RFC, Cuckatoo opensource Rust miner bounty, Umbrelos-Node bounty |    |   |   On going.

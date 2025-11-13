@@ -7,6 +7,8 @@ This document tracks decisions made by the Grin community council and points to 
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+106| 2025/09/09|  GRIN Multisig RFC  submission.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-09-09-community-meeting-notes.md)
+105| 2025/08/26| Cuckatoo Opensource Rust miner bounty initiated. GRIN Multisig RFC in process.  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-08-26-community-meeting-notes.md)
 104| 2025/08/12| Umbrel/OS bounty to be finalized.   | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-08-12-community-meeting-notes.md)
 103| 2025/07/29| Grincoin.org donation 2500$ approved.TG Grin Bot bounty approved. (GGC) BTC fund Announced. | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-07-29-community-meeting-notes.md)
 102| 2025/07/15| Grin Telegram Bot bounty assigned to @wiesche | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-07-15-community-meeting-notes.md)

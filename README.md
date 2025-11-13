@@ -32,7 +32,8 @@ July 01| [Agenda](https://github.com/grincc/agenda/issues/179)| [Notes](notes/20
 July 15| [Agenda](https://github.com/grincc/agenda/issues/181)| [Notes](notes/2025-07-15-community-meeting-notes.md) | Github organization permissions, Grin Telegram bot finalization, Grin Btc Fund process, Wallet discussion, Umbrel Node bounty idea. |
 July 29| [Agenda](https://github.com/grincc/agenda/issues/184)| [Notes](notes/2025-07-29-community-meeting-notes.md) | Grincoin.org donation 2500$ approved.TG Grin Bot bounty approved.A new bounty for an Umbrel/EmbassyOS App was discussed. (GGC) BTC fund Announced. |
 AUG 12| [Agenda](https://github.com/grincc/agenda/issues/186)| [Notes](notes/2025-08-12-community-meeting-notes.md) | Umbrel/OS bounty to be finalized. A community contributed Grin.exchange announced. SuchGRIN.lol meme microtipping site announced. |
-
+AUG 26| [Agenda](https://github.com/grincc/agenda/issues/187)| [Notes](notes/2025-08-26-community-meeting-notes.md) | Umbrel/OS bounty prize set.GRIN MULTISIG RFC to be started. GRIN Cuckatoo Opensource rust miner bounty initiated. |
+SEPT 09| [Agenda](https://github.com/grincc/agenda/issues/188)| [Notes](notes/2025-09-09-community-meeting-notes.md) | Umbrel/OS bounty progress.GRIN MULTISIG RFC bounty submission GRIN Node bug bounty idea. |
 
 
 
